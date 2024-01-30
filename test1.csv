@@ -1,0 +1,101 @@
+Disease,symptoms,tablet,composition,price,Medicine usage,side effect,sevearity,Sevearity values
+Obesity,pain and catatonia and snore and pain chest,Fluvastatin,LescolXLTablet and 80mg and 14 Tablets,473,prescribed for high cholesterol and triglycerides,Sinus pain and cough.,normal,1
+Obesity,pain chest and shortness of breath,Zestril,PRINIVIL 5mg and 10mg and 20 mg tablets,120,To treat high blood pressure,kidney problems,bad,0
+Obesity,shortness of breath and pain chest and asthenia,sbi insulin pill,SBL insulin Tablet 12 X,500,treating diabetes,dry rogh skin,normal,1
+Obesity,wheezing and cough,Etofylline,TAMSULOSIN 0.4MG,150,asthma and chronic,Upset stomach,normal,1
+Obesity,fever and vomiting,ondansetron,Satron Plus Susp Suspension 2mg and 5ml,31,radiation therpy and surgery,Central Nervous System,bad,0
+Obesity,feeling suicidal and feeling hopeless,Alprazolam,Tryline Forte Tablet and 10mg/25mg and 10 Tablets,14,prescribed for anxiety and panic disorders.,heart block,bad,0
+Obesity,orthopnea and fatigue and dyspnea on exertion,Aspirin,Dispirin Tablet and 500mg and 10 Tablets,9,heart attak and fever,stomach pain,normal,1
+Obesity,pain and vomiting and out of breath and pain chest,Aluminium Hydroxide,Aludrox (840 mg) Tablet and 840mg and 50Tablets,12,heartburn relief,loss of appetite,normal,1
+Obesity,guaiac positive and monoclonal,Carbony Iron,Abonyl Capsule and 100 mg and 10 capsules,45,iron deficiency anemia,chest pain,bad,0
+Obesity,Ampicillin and Sulbactam,sbi insulin pill,Sulbacin Tablet and 220/147mg and 10 Tablets,417,prescribed for susceptible bacterial infections like skin infections,vomiting and diarrhea,normal,1
+hypertensive disease,pain and catatonia and snore and pain chest,Fluvastatin,LescolXLTablet and 80mg and 14 Tablets,473,prescribed for high cholesterol and triglycerides,Sinus pain and cough.,normal,1
+hypertensive disease,pain chest and shortness of breath,Zestril,PRINIVIL 5mg and 10mg and 20 mg tablets,120,To treat high blood pressure,kidney problems,bad,0
+hypertensive disease,shortness of breath and pain chest and asthenia,sbi insulin pill,SBL insulin Tablet 12 X,500,treating diabetes,dry rogh skin,normal,1
+hypertensive disease,wheezing and cough,Etofylline,TAMSULOSIN 0.4MG,150,asthma and chronic,Upset stomach,normal,1
+hypertensive disease,fever and vomiting,ondansetron,Satron Plus Susp Suspension 2mg and 5ml,31,radiation therpy and surgery,Central Nervous System,bad,0
+hypertensive disease,feeling suicidal and feeling hopeless,Alprazolam,Tryline Forte Tablet and 10mg/25mg and 10 Tablets,14,prescribed for anxiety and panic disorders.,heart block,bad,0
+hypertensive disease,orthopnea and fatigue and dyspnea on exertion,Aspirin,Dispirin Tablet and 500mg and 10 Tablets,9,heart attak and fever,stomach pain,normal,1
+hypertensive disease,pain and vomiting and out of breath and pain chest,Aluminium Hydroxide,Aludrox (840 mg) Tablet and 840mg and 50Tablets,12,heartburn relief,loss of appetite,normal,1
+hypertensive disease,guaiac positive and monoclonal,Carbony Iron,Abonyl Capsule and 100 mg and 10 capsules,45,iron deficiency anemia,chest pain,bad,0
+hypertensive disease,Ampicillin and Sulbactam,sbi insulin pill,Sulbacin Tablet and 220/147mg and 10 Tablets,417,prescribed for susceptible bacterial infections like skin infections,vomiting and diarrhea,normal,1
+Diabetes,pain and catatonia and snore and pain chest,Fluvastatin,LescolXLTablet and 80mg and 14 Tablets,473,prescribed for high cholesterol and triglycerides,Sinus pain and cough.,normal,1
+Diabetes,pain chest and shortness of breath,Zestril,PRINIVIL 5mg and 10mg and 20 mg tablets,120,To treat high blood pressure,kidney problems,bad,0
+Diabetes,shortness of breath and pain chest and asthenia,sbi insulin pill,SBL insulin Tablet 12 X,500,treating diabetes,dry rogh skin,normal,1
+Diabetes,wheezing and cough,Etofylline,TAMSULOSIN 0.4MG,150,asthma and chronic,Upset stomach,normal,1
+Diabetes,fever and vomiting,ondansetron,Satron Plus Susp Suspension 2mg and 5ml,31,radiation therpy and surgery,Central Nervous System,bad,0
+Diabetes,feeling suicidal and feeling hopeless,Alprazolam,Tryline Forte Tablet and 10mg/25mg and 10 Tablets,14,prescribed for anxiety and panic disorders.,heart block,bad,0
+Diabetes,orthopnea and fatigue and dyspnea on exertion,Aspirin,Dispirin Tablet and 500mg and 10 Tablets,9,heart attak and fever,stomach pain,normal,1
+Diabetes,pain and vomiting and out of breath and pain chest,Aluminium Hydroxide,Aludrox (840 mg) Tablet and 840mg and 50Tablets,12,heartburn relief,loss of appetite,normal,1
+Diabetes,guaiac positive and monoclonal,Carbony Iron,Abonyl Capsule and 100 mg and 10 capsules,45,iron deficiency anemia,chest pain,bad,0
+Diabetes,Ampicillin and Sulbactam,sbi insulin pill,Sulbacin Tablet and 220/147mg and 10 Tablets,417,prescribed for susceptible bacterial infections like skin infections,vomiting and diarrhea,normal,1
+Asthma,pain and catatonia and snore and pain chest,Fluvastatin,LescolXLTablet and 80mg and 14 Tablets,473,prescribed for high cholesterol and triglycerides,Sinus pain and cough.,normal,1
+Asthma,pain chest and shortness of breath,Zestril,PRINIVIL 5mg and 10mg and 20 mg tablets,120,To treat high blood pressure,kidney problems,bad,0
+Asthma,shortness of breath and pain chest and asthenia,sbi insulin pill,SBL insulin Tablet 12 X,500,treating diabetes,dry rogh skin,normal,1
+Asthma,wheezing and cough,Etofylline,TAMSULOSIN 0.4MG,150,asthma and chronic,Upset stomach,normal,1
+Asthma,fever and vomiting,ondansetron,Satron Plus Susp Suspension 2mg and 5ml,31,radiation therpy and surgery,Central Nervous System,bad,0
+Asthma,feeling suicidal and feeling hopeless,Alprazolam,Tryline Forte Tablet and 10mg/25mg and 10 Tablets,14,prescribed for anxiety and panic disorders.,heart block,bad,0
+Asthma,orthopnea and fatigue and dyspnea on exertion,Aspirin,Dispirin Tablet and 500mg and 10 Tablets,9,heart attak and fever,stomach pain,normal,1
+Asthma,pain and vomiting and out of breath and pain chest,Aluminium Hydroxide,Aludrox (840 mg) Tablet and 840mg and 50Tablets,12,heartburn relief,loss of appetite,normal,1
+Asthma,guaiac positive and monoclonal,Carbony Iron,Abonyl Capsule and 100 mg and 10 capsules,45,iron deficiency anemia,chest pain,bad,0
+Asthma,Ampicillin and Sulbactam,sbi insulin pill,Sulbacin Tablet and 220/147mg and 10 Tablets,417,prescribed for susceptible bacterial infections like skin infections,vomiting and diarrhea,normal,1
+dehydration,pain and catatonia and snore and pain chest,Fluvastatin,LescolXLTablet and 80mg and 14 Tablets,473,prescribed for high cholesterol and triglycerides,Sinus pain and cough.,normal,1
+dehydration,pain chest and shortness of breath,Zestril,PRINIVIL 5mg and 10mg and 20 mg tablets,120,To treat high blood pressure,kidney problems,bad,0
+dehydration,shortness of breath and pain chest and asthenia,sbi insulin pill,SBL insulin Tablet 12 X,500,treating diabetes,dry rogh skin,normal,1
+dehydration,wheezing and cough,Etofylline,TAMSULOSIN 0.4MG,150,asthma and chronic,Upset stomach,normal,1
+dehydration,fever and vomiting,ondansetron,Satron Plus Susp Suspension 2mg and 5ml,31,radiation therpy and surgery,Central Nervous System,bad,0
+dehydration,feeling suicidal and feeling hopeless,Alprazolam,Tryline Forte Tablet and 10mg/25mg and 10 Tablets,14,prescribed for anxiety and panic disorders.,heart block,bad,0
+dehydration,orthopnea and fatigue and dyspnea on exertion,Aspirin,Dispirin Tablet and 500mg and 10 Tablets,9,heart attak and fever,stomach pain,normal,1
+dehydration,pain and vomiting and out of breath and pain chest,Aluminium Hydroxide,Aludrox (840 mg) Tablet and 840mg and 50Tablets,12,heartburn relief,loss of appetite,normal,1
+dehydration,guaiac positive and monoclonal,Carbony Iron,Abonyl Capsule and 100 mg and 10 capsules,45,iron deficiency anemia,chest pain,bad,0
+dehydration,Ampicillin and Sulbactam,sbi insulin pill,Sulbacin Tablet and 220/147mg and 10 Tablets,417,prescribed for susceptible bacterial infections like skin infections,vomiting and diarrhea,normal,1
+Depression,pain and catatonia and snore and pain chest,Fluvastatin,LescolXLTablet and 80mg and 14 Tablets,473,prescribed for high cholesterol and triglycerides,Sinus pain and cough.,normal,1
+Depression,pain chest and shortness of breath,Zestril,PRINIVIL 5mg and 10mg and 20 mg tablets,120,To treat high blood pressure,kidney problems,bad,0
+Depression,shortness of breath and pain chest and asthenia,sbi insulin pill,SBL insulin Tablet 12 X,500,treating diabetes,dry rogh skin,normal,1
+Depression,wheezing and cough,Etofylline,TAMSULOSIN 0.4MG,150,asthma and chronic,Upset stomach,normal,1
+Depression,fever and vomiting,ondansetron,Satron Plus Susp Suspension 2mg and 5ml,31,radiation therpy and surgery,Central Nervous System,bad,0
+Depression,feeling suicidal and feeling hopeless,Alprazolam,Tryline Forte Tablet and 10mg/25mg and 10 Tablets,14,prescribed for anxiety and panic disorders.,heart block,bad,0
+Depression,orthopnea and fatigue and dyspnea on exertion,Aspirin,Dispirin Tablet and 500mg and 10 Tablets,9,heart attak and fever,stomach pain,normal,1
+Depression,pain and vomiting and out of breath and pain chest,Aluminium Hydroxide,Aludrox (840 mg) Tablet and 840mg and 50Tablets,12,heartburn relief,loss of appetite,normal,1
+Depression,guaiac positive and monoclonal,Carbony Iron,Abonyl Capsule and 100 mg and 10 capsules,45,iron deficiency anemia,chest pain,bad,0
+Depression,Ampicillin and Sulbactam,sbi insulin pill,Sulbacin Tablet and 220/147mg and 10 Tablets,417,prescribed for susceptible bacterial infections like skin infections,vomiting and diarrhea,normal,1
+failure heart,pain and catatonia and snore and pain chest,Fluvastatin,LescolXLTablet and 80mg and 14 Tablets,473,prescribed for high cholesterol and triglycerides,Sinus pain and cough.,normal,1
+failure heart,pain chest and shortness of breath,Zestril,PRINIVIL 5mg and 10mg and 20 mg tablets,120,To treat high blood pressure,kidney problems,bad,0
+failure heart,shortness of breath and pain chest and asthenia,sbi insulin pill,SBL insulin Tablet 12 X,500,treating diabetes,dry rogh skin,normal,1
+failure heart,wheezing and cough,Etofylline,TAMSULOSIN 0.4MG,150,asthma and chronic,Upset stomach,normal,1
+failure heart,fever and vomiting,ondansetron,Satron Plus Susp Suspension 2mg and 5ml,31,radiation therpy and surgery,Central Nervous System,bad,0
+failure heart,feeling suicidal and feeling hopeless,Alprazolam,Tryline Forte Tablet and 10mg/25mg and 10 Tablets,14,prescribed for anxiety and panic disorders.,heart block,bad,0
+failure heart,orthopnea and fatigue and dyspnea on exertion,Aspirin,Dispirin Tablet and 500mg and 10 Tablets,9,heart attak and fever,stomach pain,normal,1
+failure heart,pain and vomiting and out of breath and pain chest,Aluminium Hydroxide,Aludrox (840 mg) Tablet and 840mg and 50Tablets,12,heartburn relief,loss of appetite,normal,1
+failure heart,guaiac positive and monoclonal,Carbony Iron,Abonyl Capsule and 100 mg and 10 capsules,45,iron deficiency anemia,chest pain,bad,0
+failure heart,Ampicillin and Sulbactam,sbi insulin pill,Sulbacin Tablet and 220/147mg and 10 Tablets,417,prescribed for susceptible bacterial infections like skin infections,vomiting and diarrhea,normal,1
+ulcer peptic,pain and catatonia and snore and pain chest,Fluvastatin,LescolXLTablet and 80mg and 14 Tablets,473,prescribed for high cholesterol and triglycerides,Sinus pain and cough.,normal,1
+ulcer peptic,pain chest and shortness of breath,Zestril,PRINIVIL 5mg and 10mg and 20 mg tablets,120,To treat high blood pressure,kidney problems,bad,0
+ulcer peptic,shortness of breath and pain chest and asthenia,sbi insulin pill,SBL insulin Tablet 12 X,500,treating diabetes,dry rogh skin,normal,1
+ulcer peptic,wheezing and cough,Etofylline,TAMSULOSIN 0.4MG,150,asthma and chronic,Upset stomach,normal,1
+ulcer peptic,fever and vomiting,ondansetron,Satron Plus Susp Suspension 2mg and 5ml,31,radiation therpy and surgery,Central Nervous System,bad,0
+ulcer peptic,feeling suicidal and feeling hopeless,Alprazolam,Tryline Forte Tablet and 10mg/25mg and 10 Tablets,14,prescribed for anxiety and panic disorders.,heart block,bad,0
+ulcer peptic,orthopnea and fatigue and dyspnea on exertion,Aspirin,Dispirin Tablet and 500mg and 10 Tablets,9,heart attak and fever,stomach pain,normal,1
+ulcer peptic,pain and vomiting and out of breath and pain chest,Aluminium Hydroxide,Aludrox (840 mg) Tablet and 840mg and 50Tablets,12,heartburn relief,loss of appetite,normal,1
+ulcer peptic,guaiac positive and monoclonal,Carbony Iron,Abonyl Capsule and 100 mg and 10 capsules,45,iron deficiency anemia,chest pain,bad,0
+ulcer peptic,Ampicillin and Sulbactam,sbi insulin pill,Sulbacin Tablet and 220/147mg and 10 Tablets,417,prescribed for susceptible bacterial infections like skin infections,vomiting and diarrhea,normal,1
+Anemia,pain and catatonia and snore and pain chest,Fluvastatin,LescolXLTablet and 80mg and 14 Tablets,473,prescribed for high cholesterol and triglycerides,Sinus pain and cough.,normal,1
+Anemia,pain chest and shortness of breath,Zestril,PRINIVIL 5mg and 10mg and 20 mg tablets,120,To treat high blood pressure,kidney problems,bad,0
+Anemia,shortness of breath and pain chest and asthenia,sbi insulin pill,SBL insulin Tablet 12 X,500,treating diabetes,dry rogh skin,normal,1
+Anemia,wheezing and cough,Etofylline,TAMSULOSIN 0.4MG,150,asthma and chronic,Upset stomach,normal,1
+Anemia,fever and vomiting,ondansetron,Satron Plus Susp Suspension 2mg and 5ml,31,radiation therpy and surgery,Central Nervous System,bad,0
+Anemia,feeling suicidal and feeling hopeless,Alprazolam,Tryline Forte Tablet and 10mg/25mg and 10 Tablets,14,prescribed for anxiety and panic disorders.,heart block,bad,0
+Anemia,orthopnea and fatigue and dyspnea on exertion,Aspirin,Dispirin Tablet and 500mg and 10 Tablets,9,heart attak and fever,stomach pain,normal,1
+Anemia,pain and vomiting and out of breath and pain chest,Aluminium Hydroxide,Aludrox (840 mg) Tablet and 840mg and 50Tablets,12,heartburn relief,loss of appetite,normal,1
+Anemia,guaiac positive and monoclonal,Carbony Iron,Abonyl Capsule and 100 mg and 10 capsules,45,iron deficiency anemia,chest pain,bad,0
+Anemia,Ampicillin and Sulbactam,sbi insulin pill,Sulbacin Tablet and 220/147mg and 10 Tablets,417,prescribed for susceptible bacterial infections like skin infections,vomiting and diarrhea,normal,1
+pneumonia,pain and catatonia and snore and pain chest,Fluvastatin,LescolXLTablet and 80mg and 14 Tablets,473,prescribed for high cholesterol and triglycerides,Sinus pain and cough.,normal,1
+pneumonia,pain chest and shortness of breath,Zestril,PRINIVIL 5mg and 10mg and 20 mg tablets,120,To treat high blood pressure,kidney problems,bad,0
+pneumonia,shortness of breath and pain chest and asthenia,sbi insulin pill,SBL insulin Tablet 12 X,500,treating diabetes,dry rogh skin,normal,1
+pneumonia,wheezing and cough,Etofylline,TAMSULOSIN 0.4MG,150,asthma and chronic,Upset stomach,normal,1
+pneumonia,fever and vomiting,ondansetron,Satron Plus Susp Suspension 2mg and 5ml,31,radiation therpy and surgery,Central Nervous System,bad,0
+pneumonia,feeling suicidal and feeling hopeless,Alprazolam,Tryline Forte Tablet and 10mg/25mg and 10 Tablets,14,prescribed for anxiety and panic disorders.,heart block,bad,0
+pneumonia,orthopnea and fatigue and dyspnea on exertion,Aspirin,Dispirin Tablet and 500mg and 10 Tablets,9,heart attak and fever,stomach pain,normal,1
+pneumonia,pain and vomiting and out of breath and pain chest,Aluminium Hydroxide,Aludrox (840 mg) Tablet and 840mg and 50Tablets,12,heartburn relief,loss of appetite,normal,1
+pneumonia,guaiac positive and monoclonal,Carbony Iron,Abonyl Capsule and 100 mg and 10 capsules,45,iron deficiency anemia,chest pain,bad,0
+pneumonia,Ampicillin and Sulbactam,sbi insulin pill,Sulbacin Tablet and 220/147mg and 10 Tablets,417,prescribed for susceptible bacterial infections like skin infections,vomiting and diarrhea,normal,1

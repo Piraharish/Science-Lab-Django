@@ -1,0 +1,101 @@
+Disease,Symptoms,Tablet,Compositions,Price,Medicine usage,side effect,sevearity,Sevearity values
+Obesity,pain and catatonia and snore and pain chest,Lovastatin,Capsule 300mg and 10 Capsules,25,prescribed for high cholesterol and triglycerides, Weakness,normal,1
+Obesity,pain chest and shortness of breath,Acetazolamide,PRINIVIL 5mg and 10mg and 20 mg tablets,120,primary hyper tension,headache,normal,1
+Obesity,shortness of breath and pain chest and asthenia,Chlorpropamide,K -Carb Tablet and 25mg and 10 Tablets,500,prescribed for type 2 diabetes,dry rogh skin,normal,1
+Obesity,wheezing and cough,Etofylline,ACEBROFACT  Capsule and 100mg,66.5,asthma and chronic,Respiratory,bad,0
+Obesity,fever and vomiting,ondansetron,"Lupisetron plus  and 4/500mg,10 Tablets",81,Headache and  dizziness.,Central Nervous System,bad,0
+Obesity,feeling suicidal and feeling hopeless,Amoxapine,Oxamine (100mg) and100mg and 11,14, prescribed for anxiety and panic disorders.,heart block,bad,0
+Obesity,orthopnea and fatigue and dyspnea on exertion,Digoxin,"Digitran - 250  Capsule and Tablet and 0.25mg,11",9,heart attak and fever,Loss of appetite and vomiting.,bad,0
+Obesity,pain and vomiting and out of breath and pain chest,Glycopyrrolate,Glycolate (1 mg)  Tablet   and 1mg and 10 Tablets,12,prescribed for preventing ulcers,loss of appetite,bad,0
+Obesity,Ampicillin and Sulbactam,Bacampicillin ,Sulbacin  Tablet  and 220/147mg and 10 Tablets,82,prescribed for susceptible bacterial infections like skin infections,intestinal inflammation,bad,0
+Obesity,guaiac positive and monoclonal,Darbeponetin alfa,Abonyl Capsule and 100 mg and 10 capsules,200,iron deficiency anemia,cough,normal,1
+hypertensive disease,pain and catatonia and snore and pain chest,Lovastatin,Capsule 300mg and 10 Capsules,25,prescribed for high cholesterol and triglycerides, Weakness,normal,1
+hypertensive disease,pain chest and shortness of breath,Acetazolamide,PRINIVIL 5mg and 10mg and 20 mg tablets,120,primary hyper tension,headache,normal,1
+hypertensive disease,shortness of breath and pain chest and asthenia,Chlorpropamide,K -Carb Tablet and 25mg and 10 Tablets,500,prescribed for type 2 diabetes,dry rogh skin,normal,1
+hypertensive disease,wheezing and cough,Etofylline,ACEBROFACT  Capsule and 100mg,66.5,asthma and chronic,Respiratory,bad,0
+hypertensive disease,fever and vomiting,ondansetron,"Lupisetron plus  and 4/500mg,10 Tablets",81,Headache and  dizziness.,Central Nervous System,bad,0
+hypertensive disease,feeling suicidal and feeling hopeless,Amoxapine,Oxamine (100mg) and100mg and 11,14, prescribed for anxiety and panic disorders.,heart block,bad,0
+hypertensive disease,orthopnea and fatigue and dyspnea on exertion,Digoxin,"Digitran - 250  Capsule and Tablet and 0.25mg,11",9,heart attak and fever,Loss of appetite and vomiting.,bad,0
+hypertensive disease,pain and vomiting and out of breath and pain chest,Glycopyrrolate,Glycolate (1 mg)  Tablet   and 1mg and 10 Tablets,12,prescribed for preventing ulcers,loss of appetite,bad,0
+hypertensive disease,Ampicillin and Sulbactam,Bacampicillin ,Sulbacin  Tablet  and 220/147mg and 10 Tablets,82,prescribed for susceptible bacterial infections like skin infections,intestinal inflammation,bad,0
+hypertensive disease,guaiac positive and monoclonal,Darbeponetin alfa,Abonyl Capsule and 100 mg and 10 capsules,200,iron deficiency anemia,cough,normal,1
+Diabetes,pain and catatonia and snore and pain chest,Lovastatin,Capsule 300mg and 10 Capsules,25,prescribed for high cholesterol and triglycerides, Weakness,normal,1
+Diabetes,pain chest and shortness of breath,Acetazolamide,PRINIVIL 5mg and 10mg and 20 mg tablets,120,primary hyper tension,headache,normal,1
+Diabetes,shortness of breath and pain chest and asthenia,Chlorpropamide,K -Carb Tablet and 25mg and 10 Tablets,500,prescribed for type 2 diabetes,dry rogh skin,normal,1
+Diabetes,wheezing and cough,Etofylline,ACEBROFACT  Capsule and 100mg,66.5,asthma and chronic,Respiratory,bad,0
+Diabetes,fever and vomiting,ondansetron,"Lupisetron plus  and 4/500mg,10 Tablets",81,Headache and  dizziness.,Central Nervous System,bad,0
+Diabetes,feeling suicidal and feeling hopeless,Amoxapine,Oxamine (100mg) and100mg and 11,14, prescribed for anxiety and panic disorders.,heart block,bad,0
+Diabetes,orthopnea and fatigue and dyspnea on exertion,Digoxin,"Digitran - 250  Capsule and Tablet and 0.25mg,11",9,heart attak and fever,Loss of appetite and vomiting.,bad,0
+Diabetes,pain and vomiting and out of breath and pain chest,Glycopyrrolate,Glycolate (1 mg)  Tablet   and 1mg and 10 Tablets,12,prescribed for preventing ulcers,loss of appetite,bad,0
+Diabetes,Ampicillin and Sulbactam,Bacampicillin ,Sulbacin  Tablet  and 220/147mg and 10 Tablets,82,prescribed for susceptible bacterial infections like skin infections,intestinal inflammation,bad,0
+Diabetes,guaiac positive and monoclonal,Darbeponetin alfa,Abonyl Capsule and 100 mg and 10 capsules,200,iron deficiency anemia,cough,normal,1
+Asthma,pain and catatonia and snore and pain chest,Lovastatin,Capsule 300mg and 10 Capsules,25,prescribed for high cholesterol and triglycerides, Weakness,normal,1
+Asthma,pain chest and shortness of breath,Acetazolamide,PRINIVIL 5mg and 10mg and 20 mg tablets,120,primary hyper tension,headache,normal,1
+Asthma,shortness of breath and pain chest and asthenia,Chlorpropamide,K -Carb Tablet and 25mg and 10 Tablets,500,prescribed for type 2 diabetes,dry rogh skin,normal,1
+Asthma,wheezing and cough,Etofylline,ACEBROFACT  Capsule and 100mg,66.5,asthma and chronic,Respiratory,bad,0
+Asthma,fever and vomiting,ondansetron,"Lupisetron plus  and 4/500mg,10 Tablets",81,Headache and  dizziness.,Central Nervous System,bad,0
+Asthma,feeling suicidal and feeling hopeless,Amoxapine,Oxamine (100mg) and100mg and 11,14, prescribed for anxiety and panic disorders.,heart block,bad,0
+Asthma,orthopnea and fatigue and dyspnea on exertion,Digoxin,"Digitran - 250  Capsule and Tablet and 0.25mg,11",9,heart attak and fever,Loss of appetite and vomiting.,bad,0
+Asthma,pain and vomiting and out of breath and pain chest,Glycopyrrolate,Glycolate (1 mg)  Tablet   and 1mg and 10 Tablets,12,prescribed for preventing ulcers,loss of appetite,bad,0
+Asthma,Ampicillin and Sulbactam,Bacampicillin ,Sulbacin  Tablet  and 220/147mg and 10 Tablets,82,prescribed for susceptible bacterial infections like skin infections,intestinal inflammation,bad,0
+Asthma,guaiac positive and monoclonal,Darbeponetin alfa,Abonyl Capsule and 100 mg and 10 capsules,200,iron deficiency anemia,cough,normal,1
+dehydration,pain and catatonia and snore and pain chest,Lovastatin,Capsule 300mg and 10 Capsules,25,prescribed for high cholesterol and triglycerides, Weakness,normal,1
+dehydration,pain chest and shortness of breath,Acetazolamide,PRINIVIL 5mg and 10mg and 20 mg tablets,120,primary hyper tension,headache,normal,1
+dehydration,shortness of breath and pain chest and asthenia,Chlorpropamide,K -Carb Tablet and 25mg and 10 Tablets,500,prescribed for type 2 diabetes,dry rogh skin,normal,1
+dehydration,wheezing and cough,Etofylline,ACEBROFACT  Capsule and 100mg,66.5,asthma and chronic,Respiratory,bad,0
+dehydration,fever and vomiting,ondansetron,"Lupisetron plus  and 4/500mg,10 Tablets",81,Headache and  dizziness.,Central Nervous System,bad,0
+dehydration,feeling suicidal and feeling hopeless,Amoxapine,Oxamine (100mg) and100mg and 11,14, prescribed for anxiety and panic disorders.,heart block,bad,0
+dehydration,orthopnea and fatigue and dyspnea on exertion,Digoxin,"Digitran - 250  Capsule and Tablet and 0.25mg,11",9,heart attak and fever,Loss of appetite and vomiting.,bad,0
+dehydration,pain and vomiting and out of breath and pain chest,Glycopyrrolate,Glycolate (1 mg)  Tablet   and 1mg and 10 Tablets,12,prescribed for preventing ulcers,loss of appetite,bad,0
+dehydration,Ampicillin and Sulbactam,Bacampicillin ,Sulbacin  Tablet  and 220/147mg and 10 Tablets,82,prescribed for susceptible bacterial infections like skin infections,intestinal inflammation,bad,0
+dehydration,guaiac positive and monoclonal,Darbeponetin alfa,Abonyl Capsule and 100 mg and 10 capsules,200,iron deficiency anemia,cough,normal,1
+Depression,pain and catatonia and snore and pain chest,Lovastatin,Capsule 300mg and 10 Capsules,25,prescribed for high cholesterol and triglycerides, Weakness,normal,1
+Depression,pain chest and shortness of breath,Acetazolamide,PRINIVIL 5mg and 10mg and 20 mg tablets,120,primary hyper tension,headache,normal,1
+Depression,shortness of breath and pain chest and asthenia,Chlorpropamide,K -Carb Tablet and 25mg and 10 Tablets,500,prescribed for type 2 diabetes,dry rogh skin,normal,1
+Depression,wheezing and cough,Etofylline,ACEBROFACT  Capsule and 100mg,66.5,asthma and chronic,Respiratory,bad,0
+Depression,fever and vomiting,ondansetron,"Lupisetron plus  and 4/500mg,10 Tablets",81,Headache and  dizziness.,Central Nervous System,bad,0
+Depression,feeling suicidal and feeling hopeless,Amoxapine,Oxamine (100mg) and100mg and 11,14, prescribed for anxiety and panic disorders.,heart block,bad,0
+Depression,orthopnea and fatigue and dyspnea on exertion,Digoxin,"Digitran - 250  Capsule and Tablet and 0.25mg,11",9,heart attak and fever,Loss of appetite and vomiting.,bad,0
+Depression,pain and vomiting and out of breath and pain chest,Glycopyrrolate,Glycolate (1 mg)  Tablet   and 1mg and 10 Tablets,12,prescribed for preventing ulcers,loss of appetite,bad,0
+Depression,Ampicillin and Sulbactam,Bacampicillin ,Sulbacin  Tablet  and 220/147mg and 10 Tablets,82,prescribed for susceptible bacterial infections like skin infections,intestinal inflammation,bad,0
+Depression,guaiac positive and monoclonal,Darbeponetin alfa,Abonyl Capsule and 100 mg and 10 capsules,200,iron deficiency anemia,cough,normal,1
+failure heart,pain and catatonia and snore and pain chest,Lovastatin,Capsule 300mg and 10 Capsules,25,prescribed for high cholesterol and triglycerides, Weakness,normal,1
+failure heart,pain chest and shortness of breath,Acetazolamide,PRINIVIL 5mg and 10mg and 20 mg tablets,120,primary hyper tension,headache,normal,1
+failure heart,shortness of breath and pain chest and asthenia,Chlorpropamide,K -Carb Tablet and 25mg and 10 Tablets,500,prescribed for type 2 diabetes,dry rogh skin,normal,1
+failure heart,wheezing and cough,Etofylline,ACEBROFACT  Capsule and 100mg,66.5,asthma and chronic,Respiratory,bad,0
+failure heart,fever and vomiting,ondansetron,"Lupisetron plus  and 4/500mg,10 Tablets",81,Headache and  dizziness.,Central Nervous System,bad,0
+failure heart,feeling suicidal and feeling hopeless,Amoxapine,Oxamine (100mg) and100mg and 11,14, prescribed for anxiety and panic disorders.,heart block,bad,0
+failure heart,orthopnea and fatigue and dyspnea on exertion,Digoxin,"Digitran - 250  Capsule and Tablet and 0.25mg,11",9,heart attak and fever,Loss of appetite and vomiting.,bad,0
+failure heart,pain and vomiting and out of breath and pain chest,Glycopyrrolate,Glycolate (1 mg)  Tablet   and 1mg and 10 Tablets,12,prescribed for preventing ulcers,loss of appetite,bad,0
+failure heart,Ampicillin and Sulbactam,Bacampicillin ,Sulbacin  Tablet  and 220/147mg and 10 Tablets,82,prescribed for susceptible bacterial infections like skin infections,intestinal inflammation,bad,0
+failure heart,guaiac positive and monoclonal,Darbeponetin alfa,Abonyl Capsule and 100 mg and 10 capsules,200,iron deficiency anemia,cough,normal,1
+ulcer peptic,pain and catatonia and snore and pain chest,Lovastatin,Capsule 300mg and 10 Capsules,25,prescribed for high cholesterol and triglycerides, Weakness,normal,1
+ulcer peptic,pain chest and shortness of breath,Acetazolamide,PRINIVIL 5mg and 10mg and 20 mg tablets,120,primary hyper tension,headache,normal,1
+ulcer peptic,shortness of breath and pain chest and asthenia,Chlorpropamide,K -Carb Tablet and 25mg and 10 Tablets,500,prescribed for type 2 diabetes,dry rogh skin,normal,1
+ulcer peptic,wheezing and cough,Etofylline,ACEBROFACT  Capsule and 100mg,66.5,asthma and chronic,Respiratory,bad,0
+ulcer peptic,fever and vomiting,ondansetron,"Lupisetron plus  and 4/500mg,10 Tablets",81,Headache and  dizziness.,Central Nervous System,bad,0
+ulcer peptic,feeling suicidal and feeling hopeless,Amoxapine,Oxamine (100mg) and100mg and 11,14, prescribed for anxiety and panic disorders.,heart block,bad,0
+ulcer peptic,orthopnea and fatigue and dyspnea on exertion,Digoxin,"Digitran - 250  Capsule and Tablet and 0.25mg,11",9,heart attak and fever,Loss of appetite and vomiting.,bad,0
+ulcer peptic,pain and vomiting and out of breath and pain chest,Glycopyrrolate,Glycolate (1 mg)  Tablet   and 1mg and 10 Tablets,12,prescribed for preventing ulcers,loss of appetite,bad,0
+ulcer peptic,Ampicillin and Sulbactam,Bacampicillin ,Sulbacin  Tablet  and 220/147mg and 10 Tablets,82,prescribed for susceptible bacterial infections like skin infections,intestinal inflammation,bad,0
+ulcer peptic,guaiac positive and monoclonal,Darbeponetin alfa,Abonyl Capsule and 100 mg and 10 capsules,200,iron deficiency anemia,cough,normal,1
+pneumonia,pain and catatonia and snore and pain chest,Lovastatin,Capsule 300mg and 10 Capsules,25,prescribed for high cholesterol and triglycerides, Weakness,normal,1
+pneumonia,pain chest and shortness of breath,Acetazolamide,PRINIVIL 5mg and 10mg and 20 mg tablets,120,primary hyper tension,headache,normal,1
+pneumonia,shortness of breath and pain chest and asthenia,Chlorpropamide,K -Carb Tablet and 25mg and 10 Tablets,500,prescribed for type 2 diabetes,dry rogh skin,normal,1
+pneumonia,wheezing and cough,Etofylline,ACEBROFACT  Capsule and 100mg,66.5,asthma and chronic,Respiratory,bad,0
+pneumonia,fever and vomiting,ondansetron,"Lupisetron plus  and 4/500mg,10 Tablets",81,Headache and  dizziness.,Central Nervous System,bad,0
+pneumonia,feeling suicidal and feeling hopeless,Amoxapine,Oxamine (100mg) and100mg and 11,14, prescribed for anxiety and panic disorders.,heart block,bad,0
+pneumonia,orthopnea and fatigue and dyspnea on exertion,Digoxin,"Digitran - 250  Capsule and Tablet and 0.25mg,11",9,heart attak and fever,Loss of appetite and vomiting.,bad,0
+pneumonia,pain and vomiting and out of breath and pain chest,Glycopyrrolate,Glycolate (1 mg)  Tablet   and 1mg and 10 Tablets,12,prescribed for preventing ulcers,loss of appetite,bad,0
+pneumonia,Ampicillin and Sulbactam,Bacampicillin ,Sulbacin  Tablet  and 220/147mg and 10 Tablets,82,prescribed for susceptible bacterial infections like skin infections,intestinal inflammation,bad,0
+pneumonia,guaiac positive and monoclonal,Darbeponetin alfa,Abonyl Capsule and 100 mg and 10 capsules,200,iron deficiency anemia,cough,normal,1
+Anemia,pain and catatonia and snore and pain chest,Lovastatin,Capsule 300mg and 10 Capsules,25,prescribed for high cholesterol and triglycerides, Weakness,normal,1
+Anemia,pain chest and shortness of breath,Acetazolamide,PRINIVIL 5mg and 10mg and 20 mg tablets,120,primary hyper tension,headache,normal,1
+Anemia,shortness of breath and pain chest and asthenia,Chlorpropamide,K -Carb Tablet and 25mg and 10 Tablets,500,prescribed for type 2 diabetes,dry rogh skin,normal,1
+Anemia,wheezing and cough,Etofylline,ACEBROFACT  Capsule and 100mg,66.5,asthma and chronic,Respiratory,bad,0
+Anemia,fever and vomiting,ondansetron,"Lupisetron plus  and 4/500mg,10 Tablets",81,Headache and  dizziness.,Central Nervous System,bad,0
+Anemia,feeling suicidal and feeling hopeless,Amoxapine,Oxamine (100mg) and100mg and 11,14, prescribed for anxiety and panic disorders.,heart block,bad,0
+Anemia,orthopnea and fatigue and dyspnea on exertion,Digoxin,"Digitran - 250  Capsule and Tablet and 0.25mg,11",9,heart attak and fever,Loss of appetite and vomiting.,bad,0
+Anemia,pain and vomiting and out of breath and pain chest,Glycopyrrolate,Glycolate (1 mg)  Tablet   and 1mg and 10 Tablets,12,prescribed for preventing ulcers,loss of appetite,bad,0
+Anemia,Ampicillin and Sulbactam,Bacampicillin ,Sulbacin  Tablet  and 220/147mg and 10 Tablets,82,prescribed for susceptible bacterial infections like skin infections,intestinal inflammation,bad,0
+Anemia,guaiac positive and monoclonal,Darbeponetin alfa,Abonyl Capsule and 100 mg and 10 capsules,200,iron deficiency anemia,cough,normal,1

@@ -1,0 +1,78 @@
+{% extends 'inventory/invo_home.html' %}
+{% block content %}
+<style>
+    .table > thead > tr > th{
+        font-size: 0.9em;
+        color: black;
+        border-top: none !important;
+    }
+.table > tbody > tr > td{
+	font-size: 0.9em;
+	color: white;
+	border-top: none !important;
+}
+</style>
+<script>
+    {% for msg in messages %}
+        alert('{{ msg }}');
+    {% endfor %}
+</script>
+<div>
+    <div class="container" style="margin-top:5px">
+        <center>
+            <h1 style="color:white;">ADMIN APPROVE</h1></center>
+        <br><br>
+        {% if values %}
+        <table class="table" style="margin-left:-100px; font-size:-10px;">
+            <thead>
+
+
+            <tr style="font-family:verdana; background-color:white;text-align: center;">
+
+                <th>Name</th>
+                <th>PhoneNo</th>
+                <th>Email</th>
+                <th>Age</th>
+                <th>Gender</th>
+                <th>Address</th>
+                <th>DateOfBirth</th>
+                <th>City</th>
+                <th>organisation</th>
+                <th>State</th>
+                <th>Education</th>
+                <th>Experience</th>
+
+
+
+            </tr>
+            </thead>
+            <tbody>
+            {% for i in values %}
+            <tr style="background-color:#00204a;color:white;text-align: center;">
+
+
+                <td>{{i.name}}</td>
+                <td>{{i.contactno}}</td>
+                <td>{{i.email}}</td>
+                <td>{{i.age}}</td>
+                <td>{{i.gender}}</td>
+                <td>{{i.address}}</td>
+                <td>{{i.dateofbirth}}</td>
+                <td>{{i.city}}</td>
+                <td>{{i.organisation}}</td>
+                <td>{{i.state}}</td>
+                <td>{{i.education}}</td>
+                <td>{{i.year_of_experience}}</td>
+
+
+
+            </tr>
+            {% endfor %}
+            </tbody>
+        </table>
+        {% endif %}
+    </div>
+
+</div>
+
+{% endblock %}

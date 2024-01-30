@@ -1,0 +1,117 @@
+<!--author: W3layouts
+author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+-->
+<html>
+{% load static %}
+
+<head>
+<title>effective application form a Flat Responsive Widget Template :: w3layouts</title>
+<!-- metatags-->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="effective application form a Flat Responsive Widget,Login form widgets, Sign up Web forms , Login signup Responsive web form,Flat Pricing table,Flat Drop downs,Registration Forms,News letter Forms,Elements" />
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
+function hideURLbar(){ window.scrollTo(0,1); } </script>
+<!-- Meta tag Keywords -->
+<link href="{% static 'form/css/style.css' %}" rel="stylesheet" type="text/css" media="all"/><!--style_sheet-->
+<link href="//fonts.googleapis.com/css?family=Quicksand" rel="stylesheet"><!--online_fonts-->
+<link href="//fonts.googleapis.com/css?family=Lato" rel="stylesheet"><!--online_fonts-->
+<link href="//fonts.googleapis.com/css?family=Raleway" rel="stylesheet"><!--online_fonts-->
+</head>
+<body>
+
+<h1>REGISTER FORM</h1>
+<div class="w3ls-main">
+<div class="w3ls-form">
+<form action="/registration/" method="post">
+	{% csrf_token %}
+<ul class="fields">
+	<li>	
+		<label class="w3ls-opt">name<span class="w3ls-star"> * </span></label>
+		<div class="w3ls-name">	
+			<input type="text" name="name"  placeholder="name" autocomplete="off"/>
+		</div>
+	</li>
+	<li>
+		<label class="w3ls-opt">contactno<span class="w3ls-star"> * </span></label>
+		<div class="w3ls-name">
+			<input type="text" name="contactno" placeholder="contactno" pattern="[6789][0-9]{9,}"  maxlength="10" autocomplete="off" />
+		</div>
+	</li>
+	<li>
+		<label class="w3ls-opt">Email<span class="w3ls-star"> * </span></label>
+		<div class="w3ls-name">
+			<input type="email" name="email"  placeholder="email" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$"  autocomplete="off"/>
+		</div>
+	</li>
+	<li>
+		<label class="w3ls-opt">age<span class="w3ls-star"> * </span></label>
+		<div class="w3ls-name">
+			<input type="text" name="age"  placeholder="age" autocomplete="off"/>
+		</div>
+	</li>
+	<li>
+		<label class="w3ls-opt">Gender<span class="w3ls-star"> * </span></label>
+		<div class="w3ls-name">
+			<input type="text" name="gender"  placeholder="gender" autocomplete="off"/>
+		</div>
+	</li>
+		<li>
+		<label class="w3ls-opt">Address<span class="w3ls-star"> * </span></label>
+		<div class="w3ls-name">
+			<input type="text" name="address"  placeholder="address" autocomplete="off"/>
+		</div>
+	</li>
+
+		<li>
+		<label class="w3ls-opt">Date Of Birth<span class="w3ls-star"> * </span></label>
+		<div class="w3ls-name">
+			<input type="text" name="dateofbirth"  placeholder="dateofbirth" autocomplete="off"/>
+		</div>
+	</li>
+	<li>
+			<label class="w3ls-opt">City<span class="w3ls-star"> * </span></label>
+		<div class="w3ls-name">
+			<input type="text" name="city"  placeholder="city" autocomplete="off"/>
+		</div>
+	</li>
+	<li>
+			<label class="w3ls-opt">Organisation<span class="w3ls-star"> * </span></label>
+		<div class="w3ls-name">
+			<input type="text" name="organisation"  placeholder="organisation" autocomplete="off"/>
+		</div>
+	</li>
+		<li>
+			<label class="w3ls-opt">state<span class="w3ls-star"> * </span></label>
+		<div class="w3ls-name">
+			<input type="text" name="state"  placeholder="state" autocomplete="off"/>
+		</div>
+	</li>
+			<li>
+			<label class="w3ls-opt">Degree<span class="w3ls-star"> * </span></label>
+		<div class="w3ls-name">
+			<input type="text" name="Degree"  placeholder="Degree" autocomplete="off"/>
+		</div>
+	</li>
+			<li>
+			<label class="w3ls-opt">Year Of Experience<span class="w3ls-star"> * </span></label>
+		<div class="w3ls-name">
+			<input type="text" name="year_of_experience"  placeholder="year of experience" autocomplete="off"/>
+		</div>
+	</li>
+
+<div class="clear"></div>
+	<div class="w3ls-btn">
+		<input type="submit" value="submit">
+
+	</div>
+</form>
+</div>
+</div>
+<footer>&copy; 2017 effective application Form. All Rights Reserved | Design by <a href="http://w3layouts.com/"> W3layouts</a></footer>
+</body>
+
+</html>
+

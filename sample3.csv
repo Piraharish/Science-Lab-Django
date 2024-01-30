@@ -1,0 +1,110 @@
+Disease,Symptoms,Tablet,Compositions,Price,Medicine usage,side effect,sevearity,Sevearity values
+Obesity,pain and catatonia and snore and pain chest,Lovastatin,Lochol Tablet and 10mg and 10 capsules,25.0,HMG-CoA reductase inhibitor,Weakness,normal,1
+Obesity,pain chest and shortness of breath,Acetazolamide,Rasilez (300 mg) Tablet 300mg and 7 Tablets,408.5,primary hyper tension,headache,normal,1
+Obesity,shortness of breath and pain chest and asthenia,Chlorpropamide,Diabinese Tablet 100mg and 10 Tablets,2.65,prescribed for type 2 diabetes,Dizziness and headache,normal,1
+Obesity,wheezing and cough,Acebrophylline,ACEBROFACT Capsule and 100mg,66.5,swelling and narrowing,Respiratory,bad,0
+Obesity,fever and vomiting,Lupisetron plus,Lupisetron plus and 4/500mg 10 Tablets,81.0,Headache and dizziness.,Fever and weakness,normal,1
+Obesity,feeling suicidal and feeling hopeless,Amoxapine,Oxamine (100mg) and100mg and 11,96.0,prescribed for depression,blurred vision,bad,0
+Obesity,orthopnea and fatigue and dyspnea on exertion,Digoxin,Digitran 250 Capsule and Tablet and 0.25mg 11,6.0,prescribed for congestive heart faliure,Loss of appetite and vomiting.,bad,0
+Obesity,pain and vomiting and out of breath and pain chest,Glycopyrrolate,Glycolate (1 mg) Tablet and 1mg and 10 Tablets,45.0,prescribed for preventing ulcers,problem in sleeping,normal,1
+Obesity,Ampicillin and Sulbactam,Digoxin,Sulbacin Tablet and 220/147mg and 10 Tablets,417.0,prescribed for susceptible bacterial infections like skin infections,"vomiting, gas, nausea, and diarrhea",bad,0
+Obesity,guaiac positive and monoclonal,Darbeponetin alfa,Cresp PFS 20mcg and 1 Vial,200.0,chronic kidney disease,cough,normal,1
+hypertensive disease,pain and catatonia and snore and pain chest,Lovastatin,Lochol Tablet and 10mg and 10 capsules,25.0,HMG-CoA reductase inhibitor,Weakness,normal,1
+hypertensive disease,pain chest and shortness of breath,Acetazolamide,Rasilez (300 mg) Tablet 300mg and 7 Tablets,408.5,primary hyper tension,headache,normal,1
+hypertensive disease,shortness of breath and pain chest and asthenia,Chlorpropamide,Diabinese Tablet 100mg and 10 Tablets,2.65,prescribed for type 2 diabetes,Dizziness and headache,normal,1
+hypertensive disease,wheezing and cough,Acebrophylline,ACEBROFACT Capsule and 100mg,66.5,swelling and narrowing,Respiratory,bad,0
+hypertensive disease,fever and vomiting,Lupisetron plus,Lupisetron plus and 4/500mg 10 Tablets,81.0,Headache and dizziness.,Fever and weakness,normal,1
+hypertensive disease,feeling suicidal and feeling hopeless,Amoxapine,Oxamine (100mg) and100mg and 11,96.0,prescribed for depression,blurred vision,bad,0
+hypertensive disease,orthopnea and fatigue and dyspnea on exertion,Digoxin,Digitran 250 Capsule and Tablet and 0.25mg 11,6.0,prescribed for congestive heart faliure,Loss of appetite and vomiting.,bad,0
+hypertensive disease,pain and vomiting and out of breath and pain chest,Glycopyrrolate,Glycolate (1 mg) Tablet and 1mg and 10 Tablets,45.0,prescribed for preventing ulcers,problem in sleeping,normal,1
+hypertensive disease,Ampicillin and Sulbactam,Digoxin,Sulbacin Tablet and 220/147mg and 10 Tablets,417.0,prescribed for susceptible bacterial infections like skin infections,"vomiting, gas, nausea, and diarrhea",bad,0
+hypertensive disease,guaiac positive and monoclonal,Darbeponetin alfa,Cresp PFS 20mcg and 1 Vial,200.0,chronic kidney disease,cough,normal,1
+Diabetes,pain and catatonia and snore and pain chest,Lovastatin,Lochol Tablet and 10mg and 10 capsules,25.0,HMG-CoA reductase inhibitor,Weakness,normal,1
+Diabetes,pain chest and shortness of breath,Acetazolamide,Rasilez (300 mg) Tablet 300mg and 7 Tablets,408.5,primary hyper tension,headache,normal,1
+Diabetes,shortness of breath and pain chest and asthenia,Chlorpropamide,Diabinese Tablet 100mg and 10 Tablets,2.65,prescribed for type 2 diabetes,Dizziness and headache,normal,1
+Diabetes,wheezing and cough,Acebrophylline,ACEBROFACT Capsule and 100mg,66.5,swelling and narrowing,Respiratory,bad,0
+Diabetes,fever and vomiting,Lupisetron plus,Lupisetron plus and 4/500mg 10 Tablets,81.0,Headache and dizziness.,Fever and weakness,normal,1
+Diabetes,feeling suicidal and feeling hopeless,Amoxapine,Oxamine (100mg) and100mg and 11,96.0,prescribed for depression,blurred vision,bad,0
+Diabetes,orthopnea and fatigue and dyspnea on exertion,Digoxin,Digitran 250 Capsule and Tablet and 0.25mg 11,6.0,prescribed for congestive heart faliure,Loss of appetite and vomiting.,bad,0
+Diabetes,pain and vomiting and out of breath and pain chest,Glycopyrrolate,Glycolate (1 mg) Tablet and 1mg and 10 Tablets,45.0,prescribed for preventing ulcers,problem in sleeping,normal,1
+Diabetes,Ampicillin and Sulbactam,Digoxin,Sulbacin Tablet and 220/147mg and 10 Tablets,417.0,prescribed for susceptible bacterial infections like skin infections,"vomiting, gas, nausea, and diarrhea",bad,0
+Diabetes,guaiac positive and monoclonal,Darbeponetin alfa,Cresp PFS 20mcg and 1 Vial,200.0,chronic kidney disease,cough,normal,1
+Asthma,pain and catatonia and snore and pain chest,Lovastatin,Lochol Tablet and 10mg and 10 capsules,25.0,HMG-CoA reductase inhibitor,Weakness,normal,1
+Asthma,pain chest and shortness of breath,Acetazolamide,Rasilez (300 mg) Tablet 300mg and 7 Tablets,408.5,primary hyper tension,headache,normal,1
+Asthma,shortness of breath and pain chest and asthenia,Chlorpropamide,Diabinese Tablet 100mg and 10 Tablets,2.65,prescribed for type 2 diabetes,Dizziness and headache,normal,1
+Asthma,wheezing and cough,Acebrophylline,ACEBROFACT Capsule and 100mg,66.5,swelling and narrowing,Respiratory,bad,0
+Asthma,fever and vomiting,Lupisetron plus,Lupisetron plus and 4/500mg 10 Tablets,81.0,Headache and dizziness.,Fever and weakness,normal,1
+Asthma,feeling suicidal and feeling hopeless,Amoxapine,Oxamine (100mg) and100mg and 11,96.0,prescribed for depression,blurred vision,bad,0
+Asthma,orthopnea and fatigue and dyspnea on exertion,Digoxin,Digitran 250 Capsule and Tablet and 0.25mg 11,6.0,prescribed for congestive heart faliure,Loss of appetite and vomiting.,bad,0
+Asthma,pain and vomiting and out of breath and pain chest,Glycopyrrolate,Glycolate (1 mg) Tablet and 1mg and 10 Tablets,45.0,prescribed for preventing ulcers,problem in sleeping,normal,1
+Asthma,Ampicillin and Sulbactam,Digoxin,Sulbacin Tablet and 220/147mg and 10 Tablets,417.0,prescribed for susceptible bacterial infections like skin infections,"vomiting, gas, nausea, and diarrhea",bad,0
+Asthma,guaiac positive and monoclonal,Darbeponetin alfa,Cresp PFS 20mcg and 1 Vial,200.0,chronic kidney disease,cough,normal,1
+dehydration,pain and catatonia and snore and pain chest,Lovastatin,Lochol Tablet and 10mg and 10 capsules,25.0,HMG-CoA reductase inhibitor,Weakness,normal,1
+dehydration,pain chest and shortness of breath,Acetazolamide,Rasilez (300 mg) Tablet 300mg and 7 Tablets,408.5,primary hyper tension,headache,normal,1
+dehydration,shortness of breath and pain chest and asthenia,Chlorpropamide,Diabinese Tablet 100mg and 10 Tablets,2.65,prescribed for type 2 diabetes,Dizziness and headache,normal,1
+dehydration,wheezing and cough,Acebrophylline,ACEBROFACT Capsule and 100mg,66.5,swelling and narrowing,Respiratory,bad,0
+dehydration,fever and vomiting,Lupisetron plus,Lupisetron plus and 4/500mg 10 Tablets,81.0,Headache and dizziness.,Fever and weakness,normal,1
+dehydration,feeling suicidal and feeling hopeless,Amoxapine,Oxamine (100mg) and100mg and 11,96.0,prescribed for depression,blurred vision,bad,0
+dehydration,orthopnea and fatigue and dyspnea on exertion,Digoxin,Digitran 250 Capsule and Tablet and 0.25mg 11,6.0,prescribed for congestive heart faliure,Loss of appetite and vomiting.,bad,0
+dehydration,pain and vomiting and out of breath and pain chest,Glycopyrrolate,Glycolate (1 mg) Tablet and 1mg and 10 Tablets,45.0,prescribed for preventing ulcers,problem in sleeping,normal,1
+dehydration,Ampicillin and Sulbactam,Digoxin,Sulbacin Tablet and 220/147mg and 10 Tablets,417.0,prescribed for susceptible bacterial infections like skin infections,"vomiting, gas, nausea, and diarrhea",bad,0
+dehydration,guaiac positive and monoclonal,Darbeponetin alfa,Cresp PFS 20mcg and 1 Vial,200.0,chronic kidney disease,cough,normal,1
+Depression,pain and catatonia and snore and pain chest,Lovastatin,Lochol Tablet and 10mg and 10 capsules,25.0,HMG-CoA reductase inhibitor,Weakness,normal,1
+Depression,pain chest and shortness of breath,Acetazolamide,Rasilez (300 mg) Tablet 300mg and 7 Tablets,408.5,primary hyper tension,headache,normal,1
+Depression,shortness of breath and pain chest and asthenia,Chlorpropamide,Diabinese Tablet 100mg and 10 Tablets,2.65,prescribed for type 2 diabetes,Dizziness and headache,normal,1
+Depression,wheezing and cough,Acebrophylline,ACEBROFACT Capsule and 100mg,66.5,swelling and narrowing,Respiratory,bad,0
+Depression,fever and vomiting,Lupisetron plus,Lupisetron plus and 4/500mg 10 Tablets,81.0,Headache and dizziness.,Fever and weakness,normal,1
+Depression,feeling suicidal and feeling hopeless,Amoxapine,Oxamine (100mg) and100mg and 11,96.0,prescribed for depression,blurred vision,bad,0
+Depression,orthopnea and fatigue and dyspnea on exertion,Digoxin,Digitran 250 Capsule and Tablet and 0.25mg 11,6.0,prescribed for congestive heart faliure,Loss of appetite and vomiting.,bad,0
+Depression,pain and vomiting and out of breath and pain chest,Glycopyrrolate,Glycolate (1 mg) Tablet and 1mg and 10 Tablets,45.0,prescribed for preventing ulcers,problem in sleeping,normal,1
+Depression,Ampicillin and Sulbactam,Digoxin,Sulbacin Tablet and 220/147mg and 10 Tablets,417.0,prescribed for susceptible bacterial infections like skin infections,"vomiting, gas, nausea, and diarrhea",bad,0
+Depression,guaiac positive and monoclonal,Darbeponetin alfa,Cresp PFS 20mcg and 1 Vial,200.0,chronic kidney disease,cough,normal,1
+failure heart,pain and catatonia and snore and pain chest,Lovastatin,Lochol Tablet and 10mg and 10 capsules,25.0,HMG-CoA reductase inhibitor,Weakness,normal,1
+failure heart,pain chest and shortness of breath,Acetazolamide,Rasilez (300 mg) Tablet 300mg and 7 Tablets,408.5,primary hyper tension,headache,normal,1
+failure heart,shortness of breath and pain chest and asthenia,Chlorpropamide,Diabinese Tablet 100mg and 10 Tablets,2.65,prescribed for type 2 diabetes,Dizziness and headache,normal,1
+failure heart,wheezing and cough,Acebrophylline,ACEBROFACT Capsule and 100mg,66.5,swelling and narrowing,Respiratory,bad,0
+failure heart,fever and vomiting,Lupisetron plus,Lupisetron plus and 4/500mg 10 Tablets,81.0,Headache and dizziness.,Fever and weakness,normal,1
+failure heart,feeling suicidal and feeling hopeless,Amoxapine,Oxamine (100mg) and100mg and 11,96.0,prescribed for depression,blurred vision,bad,0
+failure heart,orthopnea and fatigue and dyspnea on exertion,Digoxin,Digitran 250 Capsule and Tablet and 0.25mg 11,6.0,prescribed for congestive heart faliure,Loss of appetite and vomiting.,bad,0
+failure heart,pain and vomiting and out of breath and pain chest,Glycopyrrolate,Glycolate (1 mg) Tablet and 1mg and 10 Tablets,45.0,prescribed for preventing ulcers,problem in sleeping,normal,1
+failure heart,Ampicillin and Sulbactam,Digoxin,Sulbacin Tablet and 220/147mg and 10 Tablets,417.0,prescribed for susceptible bacterial infections like skin infections,"vomiting, gas, nausea, and diarrhea",bad,0
+failure heart,guaiac positive and monoclonal,Darbeponetin alfa,Cresp PFS 20mcg and 1 Vial,200.0,chronic kidney disease,cough,normal,1
+ulcer peptic,pain and catatonia and snore and pain chest,Lovastatin,Lochol Tablet and 10mg and 10 capsules,25.0,HMG-CoA reductase inhibitor,Weakness,normal,1
+ulcer peptic,pain chest and shortness of breath,Acetazolamide,Rasilez (300 mg) Tablet 300mg and 7 Tablets,408.5,primary hyper tension,headache,normal,1
+ulcer peptic,shortness of breath and pain chest and asthenia,Chlorpropamide,Diabinese Tablet 100mg and 10 Tablets,2.65,prescribed for type 2 diabetes,Dizziness and headache,normal,1
+ulcer peptic,wheezing and cough,Acebrophylline,ACEBROFACT Capsule and 100mg,66.5,swelling and narrowing,Respiratory,bad,0
+ulcer peptic,fever and vomiting,Lupisetron plus,Lupisetron plus and 4/500mg 10 Tablets,81.0,Headache and dizziness.,Fever and weakness,normal,1
+ulcer peptic,feeling suicidal and feeling hopeless,Amoxapine,Oxamine (100mg) and100mg and 11,96.0,prescribed for depression,blurred vision,bad,0
+ulcer peptic,orthopnea and fatigue and dyspnea on exertion,Digoxin,Digitran 250 Capsule and Tablet and 0.25mg 11,6.0,prescribed for congestive heart faliure,Loss of appetite and vomiting.,bad,0
+ulcer peptic,pain and vomiting and out of breath and pain chest,Glycopyrrolate,Glycolate (1 mg) Tablet and 1mg and 10 Tablets,45.0,prescribed for preventing ulcers,problem in sleeping,normal,1
+ulcer peptic,Ampicillin and Sulbactam,Digoxin,Sulbacin Tablet and 220/147mg and 10 Tablets,417.0,prescribed for susceptible bacterial infections like skin infections,"vomiting, gas, nausea, and diarrhea",bad,0
+ulcer peptic,guaiac positive and monoclonal,Darbeponetin alfa,Cresp PFS 20mcg and 1 Vial,200.0,chronic kidney disease,cough,normal,1
+pneumonia,pain and catatonia and snore and pain chest,Lovastatin,Lochol Tablet and 10mg and 10 capsules,25.0,HMG-CoA reductase inhibitor,Weakness,normal,1
+pneumonia,pain chest and shortness of breath,Acetazolamide,Rasilez (300 mg) Tablet 300mg and 7 Tablets,408.5,primary hyper tension,headache,normal,1
+pneumonia,shortness of breath and pain chest and asthenia,Chlorpropamide,Diabinese Tablet 100mg and 10 Tablets,2.65,prescribed for type 2 diabetes,Dizziness and headache,normal,1
+pneumonia,wheezing and cough,Acebrophylline,ACEBROFACT Capsule and 100mg,66.5,swelling and narrowing,Respiratory,bad,0
+pneumonia,fever and vomiting,Lupisetron plus,Lupisetron plus and 4/500mg 10 Tablets,81.0,Headache and dizziness.,Fever and weakness,normal,1
+pneumonia,feeling suicidal and feeling hopeless,Amoxapine,Oxamine (100mg) and100mg and 11,96.0,prescribed for depression,blurred vision,bad,0
+pneumonia,orthopnea and fatigue and dyspnea on exertion,Digoxin,Digitran 250 Capsule and Tablet and 0.25mg 11,6.0,prescribed for congestive heart faliure,Loss of appetite and vomiting.,bad,0
+pneumonia,pain and vomiting and out of breath and pain chest,Glycopyrrolate,Glycolate (1 mg) Tablet and 1mg and 10 Tablets,45.0,prescribed for preventing ulcers,problem in sleeping,normal,1
+pneumonia,Ampicillin and Sulbactam,Digoxin,Sulbacin Tablet and 220/147mg and 10 Tablets,417.0,prescribed for susceptible bacterial infections like skin infections,"vomiting, gas, nausea, and diarrhea",bad,0
+pneumonia,guaiac positive and monoclonal,Darbeponetin alfa,Cresp PFS 20mcg and 1 Vial,200.0,chronic kidney disease,cough,normal,1
+Anemia,pain and catatonia and snore and pain chest,Lovastatin,Lochol Tablet and 10mg and 10 capsules,25.0,HMG-CoA reductase inhibitor,Weakness,normal,1
+Anemia,pain chest and shortness of breath,Acetazolamide,Rasilez (300 mg) Tablet 300mg and 7 Tablets,408.5,primary hyper tension,headache,normal,1
+Anemia,shortness of breath and pain chest and asthenia,Chlorpropamide,Diabinese Tablet 100mg and 10 Tablets,2.65,prescribed for type 2 diabetes,Dizziness and headache,normal,1
+Anemia,wheezing and cough,Acebrophylline,ACEBROFACT Capsule and 100mg,66.5,swelling and narrowing,Respiratory,bad,0
+Anemia,fever and vomiting,Lupisetron plus,Lupisetron plus and 4/500mg 10 Tablets,81.0,Headache and dizziness.,Fever and weakness,normal,1
+Anemia,feeling suicidal and feeling hopeless,Amoxapine,Oxamine (100mg) and100mg and 11,96.0,prescribed for depression,blurred vision,bad,0
+Anemia,orthopnea and fatigue and dyspnea on exertion,Digoxin,Digitran 250 Capsule and Tablet and 0.25mg 11,6.0,prescribed for congestive heart faliure,Loss of appetite and vomiting.,bad,0
+Anemia,pain and vomiting and out of breath and pain chest,Glycopyrrolate,Glycolate (1 mg) Tablet and 1mg and 10 Tablets,45.0,prescribed for preventing ulcers,problem in sleeping,normal,1
+Anemia,Ampicillin and Sulbactam,Digoxin,Sulbacin Tablet and 220/147mg and 10 Tablets,417.0,prescribed for susceptible bacterial infections like skin infections,"vomiting, gas, nausea, and diarrhea",bad,0
+Anemia,guaiac positive and monoclonal,Darbeponetin alfa,Cresp PFS 20mcg and 1 Vial,200.0,chronic kidney disease,cough,normal,1
+Anemia,pain and catatonia and snore and pain chest,Lovastatin,Lochol Tablet and 10mg and 10 capsules,25.0,HMG-CoA reductase inhibitor,Weakness,normal,1
+Anemia,pain chest and shortness of breath,Acetazolamide,Rasilez (300 mg) Tablet 300mg and 7 Tablets,408.5,primary hyper tension,headache,normal,1
+Anemia,shortness of breath and pain chest and asthenia,Chlorpropamide,Diabinese Tablet 100mg and 10 Tablets,2.65,prescribed for type 2 diabetes,Dizziness and headache,normal,1
+Anemia,wheezing and cough,Acebrophylline,ACEBROFACT Capsule and 100mg,66.5,swelling and narrowing,Respiratory,bad,0
+Anemia,fever and vomiting,Lupisetron plus,Lupisetron plus and 4/500mg 10 Tablets,81.0,Headache and dizziness.,Fever and weakness,normal,1
+Anemia,feeling suicidal and feeling hopeless,Amoxapine,Oxamine (100mg) and100mg and 11,96.0,prescribed for depression,blurred vision,bad,0
+Anemia,orthopnea and fatigue and dyspnea on exertion,Digoxin,Digitran 250 Capsule and Tablet and 0.25mg 11,6.0,prescribed for congestive heart faliure,Loss of appetite and vomiting.,bad,0
+Anemia,pain and vomiting and out of breath and pain chest,Glycopyrrolate,Glycolate (1 mg) Tablet and 1mg and 10 Tablets,45.0,prescribed for preventing ulcers,problem in sleeping,normal,1
+Anemia,Ampicillin and Sulbactam,Digoxin,Sulbacin Tablet and 220/147mg and 10 Tablets,417.0,prescribed for susceptible bacterial infections like skin infections,"vomiting, gas, nausea, and diarrhea",bad,0

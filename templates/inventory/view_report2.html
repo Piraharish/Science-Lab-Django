@@ -1,0 +1,126 @@
+{% extends 'inventory/invo_home.html' %}
+{% block content %}
+{% load static %}
+<body>
+<style>
+    .table > thead > tr > th{
+        font-size: 0.9em;
+        color: black;
+        border-top: none !important;
+    }
+.table > tbody > tr > td{
+	font-size: 0.9em;
+	color: white;
+	border-top: none !important;
+}
+
+.button-24 {
+  background: #FF4742;
+  border: 1px solid #FF4742;
+  border-radius: 6px;
+  box-shadow: rgba(0, 0, 0, 0.1) 1px 2px 4px;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  display: inline-block;
+  font-family: nunito,roboto,proxima-nova,"proxima nova",sans-serif;
+  font-size: 16px;
+  font-weight: 800;
+  line-height: 16px;
+  min-height: 40px;
+  outline: 0;
+  padding: 12px 14px;
+  text-align: center;
+  text-rendering: geometricprecision;
+  text-transform: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: middle;
+}
+
+.button-24:hover,
+.button-24:active {
+  background-color: initial;
+  background-position: 0 0;
+  color: #FF4742;
+}
+
+.button-24:active {
+  opacity: .5;
+}
+</style>
+<script>
+    {% for msg in messages %}
+        alert('{{ msg }}');
+    {% endfor %}
+</script>
+<div>
+    <div class="container" style="margin-top:5px"><br><br>
+        <center>
+            <h1 style="margin-top: -200px; color:white;">PACKING</h1></center>
+        <br>
+        {% if values %}
+
+        <table class="table" style="margin-left:-40px; font-size:12px;">
+            <thead style="color:black;">
+
+
+            <tr style="font-family:verdana; background-color:white;text-align: center;">
+
+                <th>DISEASE</th>
+                <th>SYMPTOMS</th>
+                <th>TABLET</th>
+                <th>COMPOSITION</th>
+                <th>PRICE</th>
+                <th>MEDICINE</th>
+                <th>SIDE EFFECT</th>
+                <th>SEVEARITY</th>
+                <th>REPORT</th>
+                   <th>PACKING ID</th>
+<!--                <th>packing_REPORT</th>-->
+
+
+
+
+
+
+
+            </tr>
+            </thead>
+            <tbody style="color:white;">
+            {% for i in values %}
+            <tr style="background-color:#00204a;color:white;text-align: center;">
+
+
+                <td>{{i.Disease}}</td>
+                <td>{{i.symptoms}}</td>
+                <td>{{i.tablet}}</td>
+                <td>{{i.composition}}</td>
+                <td>{{i.price}}</td>
+                <td>{{i.Medicine}}</td>
+                <td>{{i.side_effect}}</td>
+                <td>{{i.sevearity}}</td>
+                <td>{{i.solution1}}</td>
+                <td><a href="/send_to_packing2/{{i.id}}/"><button class="button-24">Do Packing</button></a></td>
+
+<!--                   <td style="color:black;"><input type="text" name="packing_id2"></td>-->
+<!--                <td style="color:black;" ><a href="/send_to_packing2/{{i.id}}/"><input type="submit" formaction="/send_to_packing2/{{i.id}}/" value="Send to packing"></td></a>-->
+
+
+              
+
+
+
+
+            </tr>
+            {% endfor %}
+            </tbody>
+        </table>
+        {% endif %}
+    </div>
+
+</div>
+</body>
+</html>
+{% endblock %}

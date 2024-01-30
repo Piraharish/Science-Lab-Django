@@ -1,0 +1,81 @@
+{% extends 'research/new.html' %}
+{% block content %}
+{% load static %}
+<body>
+<style>
+    .table > thead > tr > th{
+        font-size: 0.9em;
+        color: black;
+        border-top: none !important;
+    }
+.table > tbody > tr > td{
+	font-size: 0.9em;
+	color: white;
+	border-top: none !important;
+}
+</style>
+<script>
+    {% for msg in messages %}
+        alert('{{ msg }}');
+    {% endfor %}
+</script>
+<div>
+    <div class="container" style="margin-top:5px"><br><br>
+        <center>
+            <h1 style="margin-top: -200px; color:white;">Report</h1></center>
+        <br>
+        {% if values %}
+        <table class="table" style="margin-left:-50px; font-size:-10px;">
+            <thead style="color:black;">
+
+
+            <tr style="font-family:verdana; background-color:white;text-align: center;">
+
+                <th>DISEASE</th>
+                <th>SYMPTOMS</th>
+                <th>TABLET</th>
+                <th>COMPOSITION</th>
+                <th>PRICE</th>
+                <th>MEDICINE</th>
+                <th>SIDE EFFECT</th>
+                <th>SEVEARITY</th>
+                <th>REPORT</th>
+                <th>STATUS</th>
+                
+
+
+
+
+            </tr>
+            </thead>
+            <tbody style="color:white;">
+            {% for i in values %}
+            <tr style="background-color:#00204a;color:white;text-align: center;">
+
+
+                <td>{{i.Disease}}</td>
+                <td>{{i.symptoms}}</td>
+                <td>{{i.tablet}}</td>
+                <td>{{i.composition}}</td>
+                <td>{{i.price}}</td>
+                <td>{{i.Medicine}}</td>
+                <td>{{i.side_effect}}</td>
+                <td>{{i.sevearity}}</td>
+                <td>{{i.solution4}}</td>
+                  <td><a href="/view_invo5/{{i.id}}/"><button class="btn btn-info">SEND</button></a></td>
+              
+
+
+
+
+            </tr>
+            {% endfor %}
+            </tbody>
+        </table>
+        {% endif %}
+    </div>
+
+</div>
+</body>
+</html>
+{% endblock %}

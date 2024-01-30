@@ -1,0 +1,51 @@
+Disease,Symptoms,Tablet,Compositions,Price,Medicine usage,side effect,sevearity,Sevearity values
+Obesity,pain and catatonia and snore and pain chest,FenofibricAcid,Fenacor 200 mg and 10 Capsules,138.0,reduce the cholesterol,Difficulty in sleeping,normal,1
+hypertensive disease,pain chest and shortness of breath,Acetazolamide,Synomax Capsule Tablet and 250mg and10,6.9,treat heart faliure,headache,normal,1
+Diabetes,shortness of breath and pain chest and asthenia,Acarbose,   K-Carb Tablet and 25mg and 10 Tablets,32.0,diet and other medications,Allergic skin reaction,bad,0
+Asthma,wheezing and cough,Etophylline,TAMSULOSIN 0.4MG,100.0,asthma and chronic,Upset stomach,normal,1
+dehydration,fever and vomiting,Lupisetron plus,"Lupisetron plus and 4/500mg,10 Tablets",80.0,Headache and dizziness.,Fever and weakness,normal,1
+Depression,feeling suicidal and feeling hopeless,Amoxapine,Oxamine (100mg) and100mg and 10,95.0,prescribed for depression,dry mouth,normal,1
+failure heart,orthopnea and fatigue and dyspnea on exertion,Digoxin,"Digitran - 250 Capsule and Tablet and 0.25mg,10",6.0,prescribed for congestive heart faliure,Loss of appetite and vomiting.,normal,1
+ulcer peptic,pain and vomiting and out of breath and pain chest,Magnesium Hydroxide,Aludrox (840 mg) Tablet and 840mg and 50 Tablets,12.0,indigestion,muscle weakness,normal,1
+pneumonia,cough and fever,Bacampicillin,Penglobe (400 mg) Tablet and 400mg and 6 Tablets,82.0,prescribed for susceptible infections,intestinal inflammation,bad,0
+Anemia,guaiac positive and monoclonal,Darbeponetin alfa,Cresp PFS 40mcg and 1 Vial,12.0,prescribed for anemia,difficulty in breathing,bad,0
+Asthma,pain chest and shortness of breath,Fenofibric Acid,Oxamine (100mg) and100mg and 10,12.0,asthma and chronic,Upset stomach,normal,1
+Asthma,shortness of breath and pain chest and asthenia,Acetazolamide,"Lupisetron plus and 4/500mg,10 Tablets",12.0,reduce the cholesterol,Fever and weakness,normal,1
+dehydration,guaiac positive and monoclonal,Acarbose,Oxamine (100mg) and100mg and 10,138.0,treat heart faliure,Difficulty in sleeping,normal,1
+Depression,cough and fever,Etophylline,Oxamine (100mg) and100mg and 10,6.9,diet and other medications,headache,normal,1
+failure heart,guaiac positive and monoclonal,Lupisetron plus,"Lupisetron plus and 4/500mg,10 Tablets",32.0,asthma and chronic,Upset stomach,normal,1
+ulcer peptic,pain and catatonia and snore and pain chest,Amoxapine,Oxamine (100mg) and100mg and 10,100.0,diet and other medications,Fever and weakness,normal,1
+pneumonia,pain chest and shortness of breath,Digoxin,Oxamine (100mg) and100mg and 10,32.0,Headache and dizziness.,Upset stomach,normal,1
+Obesity,pain chest and shortness of breath,Magnesium Hydroxide,TAMSULOSIN 0.4MG,80.0,prescribed for depression,Fever and weakness,normal,1
+hypertensive disease,shortness of breath and pain chest and asthenia,Bacampicillin,"Lupisetron plus and 4/500mg,10 Tablets",95.0,prescribed for congestive heart faliure,Allergic skin reaction,bad,0
+Diabetes,pain and catatonia and snore and pain chest,Darbeponetin alfa,Oxamine (100mg) and100mg and 10,6.0,indigestion,Upset stomach,normal,1
+pneumonia,pain chest and shortness of breath,Fenofibric Acid,"Digitran - 250 Capsule and Tablet and 0.25mg,10",32.0,prescribed for susceptible infections,Fever and weakness,normal,1
+Asthma,pain chest and shortness of breath,Acetazolamide,Aludrox (840 mg) Tablet and 840mg and 50 Tablets,32.0,diet and other medications,dry mouth,normal,1
+dehydration,cough and fever,Acarbose,Penglobe (400 mg) Tablet and 400mg and 6 Tablets,138.0,reduce the cholesterol,Loss of appetite and vomiting.,normal,1
+Depression,guaiac positive and monoclonal,Etophylline,Cresp PFS 40mcg and 1 Vial,6.9,treat heart faliure,muscle weakness,normal,1
+failure heart,pain chest and shortness of breath,Lupisetron plus,Penglobe (400 mg) Tablet and 400mg and 6 Tablets,32.0,diet and other medications,intestinal inflammation,bad,0
+ulcer peptic,pain and catatonia and snore and pain chest,Amoxapine,Oxamine (100mg) and100mg and 10,100.0,diet and other medications,difficulty in breathing,bad,0
+pneumonia,pain chest and shortness of breath,Digoxin,   K-Carb Tablet and 25mg and 10 Tablets,32.0,Headache and dizziness.,Difficulty in sleeping,normal,1
+pneumonia,pain chest and shortness of breath,Magnesium Hydroxide,Fenacor 200mg and 10 Capsules,138.0,prescribed for depression,headache,normal,1
+Obesity,pain chest and shortness of breath,Bacampicillin,Synomax Capsule Tablet and 250mg and10,6.9,prescribed for congestive heart faliure,headache,normal,1
+Obesity,cough and fever,Darbeponetin alfa,   K-Carb Tablet and 25mg and 10 Tablets,32.0,indigestion,Allergic skin reaction,bad,0
+hypertensive disease,guaiac positive and monoclonal,Fenofibric Acid,   K-Carb Tablet and 25mg and 10 Tablets,100.0,prescribed for susceptible infections,Upset stomach,normal,1
+Diabetes,guaiac positive and monoclonal,Acetazolamide,Penglobe (400 mg) Tablet and 400mg and 6 Tablets,100.0,diet and other medications,Fever and weakness,normal,1
+Asthma,pain chest and shortness of breath,Acarbose,   K-Carb Tablet and 25mg and 10 Tablets,32.0,asthma and chronic,dry mouth,normal,1
+Depression,wheezing and cough,Etophylline,TAMSULOSIN 0.4MG,80.0,asthma and chronic,Loss of appetite and vomiting.,normal,1
+failure heart,fever and vomiting,Lupisetron plus,"Lupisetron plus and 4/500mg,10 Tablets",95.0,reduce the cholesterol,muscle weakness,normal,1
+ulcer peptic,feeling suicidal and feeling hopeless,Amoxapine,Oxamine (100mg) and100mg and 10,6.0,treat heart faliure,intestinal inflammation,bad,0
+Asthma,orthopnea and fatigue and dyspnea on exertion,Digoxin,"Digitran - 250 Capsule and Tablet and 0.25mg,10",100.0,diet and other medications,difficulty in breathing,bad,0
+Obesity,pain and vomiting and out of breath and pain chest,Magnesium Hydroxide,Aludrox (840 mg) Tablet and 840mg and 50 Tablets,100.0,diet and other medications,Allergic skin reaction,bad,0
+hypertensive disease,cough and fever,Bacampicillin,Penglobe (400 mg) Tablet and 400mg and 6 Tablets,138.0,diet and other medications,Upset stomach,normal,1
+Diabetes,guaiac positive and monoclonal,Darbeponetin alfa,Cresp PFS 40mcg and 1 Vial,6.9,reduce the cholesterol,Fever and weakness,normal,1
+Asthma,pain chest and shortness of breath,Fenofibric Acid,Penglobe (400 mg) Tablet and 400mg and 6 Tablets,32.0,treat heart faliure,dry mouth,normal,1
+Depression,shortness of breath and pain chest and asthenia,Acetazolamide,   K-Carb Tablet and 25mg and 10 Tablets,100.0,diet and other medications,Loss of appetite and vomiting.,normal,1
+failure heart,pain chest and shortness of breath,Acarbose,Fenacor 200mg and 10 Capsules,80.0,asthma and chronic,muscle weakness,normal,1
+ulcer peptic,shortness of breath and pain chest and asthenia,Etophylline,Synomax Capsule Tablet and 250mg and10,95.0,Headache and dizziness.,intestinal inflammation,bad,0
+Asthma,guaiac positive and monoclonal,Lupisetron plus,   K-Carb Tablet and 25mg and 10 Tablets,6.0,prescribed for depression,difficulty in breathing,bad,0
+Obesity,wheezing and cough,Amoxapine,   K-Carb Tablet and 25mg and 10 Tablets,138.0,prescribed for congestive heart faliure,Difficulty in sleeping,normal,1
+Obesity,fever and vomiting,Digoxin,Penglobe (400 mg) Tablet and 400mg and 6 Tablets,6.9,indigestion,headache,normal,1
+hypertensive disease,feeling suicidal and feeling hopeless,Magnesium Hydroxide,Fenacor 200mg and 10 Capsules,32.0,prescribed for susceptible infections,Difficulty in sleeping,normal,1
+Diabetes,orthopnea and fatigue and dyspnea on exertion,Bacampicillin,Synomax Capsule Tablet and 250mg and10,100.0,asthma and chronic,headache,normal,1
+Asthma,pain and vomiting and out of breath and pain chest,Darbeponetin alfa,   K-Carb Tablet and 25mg and 10 Tablets,100.0,asthma and chronic,headache,normal,1

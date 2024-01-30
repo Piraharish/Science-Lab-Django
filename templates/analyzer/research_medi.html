@@ -1,0 +1,200 @@
+<!--A Design by W3layouts
+Author: W3layout
+Author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+-->
+<!doctype html>
+<html lang="en">
+{% load static %}
+
+<head>
+<title>Medico Appointment Form Flat Responsive widget Template :: w3layouts</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="Doctor Appointment Form Widget Responsive, Login form web template,Flat Pricing tables,Flat Drop downsSign up Web Templates, Flat Web Templates, Login signup Responsive web template, Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+<!-- font files -->
+<link href="//fonts.googleapis.com/css?family=Spectral" rel="stylesheet">
+<!-- /font files -->
+<!-- css files -->
+<link href="{% static 'medi/css/style.css' %}" rel='stylesheet' type='text/css' media="all" />
+<!-- /css files -->
+<link href="{% static 'medi/css/font-awesome.css' %}" rel="stylesheet">		<!-- font-awesome icons-css-file -->
+
+<link href="{% static 'medi/css/wickedpicker.css' %}" rel="stylesheet" type='text/css' media="all" />
+
+<script type="text/javascript" src="{% static 'medi/js/jquery-2.1.4.min.js' %}"></script>
+</head>
+<body>
+
+<script>
+
+{% for msg in messages %}
+
+alert('{{ msg }}');
+{% endfor %}
+
+</script>
+	<div class="w3-banner-main">
+		<div class="center-container">
+			<h1 class="header-w3ls">Research</h1>
+			
+			<div class="content-top">
+				<div class="content-w3ls">
+					<div class="form-w3ls">
+						<form action="/analyze1/" method="post">
+							{% csrf_token %}
+							<div class="content-wthree1">
+								<div class="grid-agileits1">
+
+
+								<div class="form-control">
+										<label class="header">Disease<span>*</span></label>
+										<select class="form-control" name="Disease" style="width:500px;">
+											<option>Obesity</option>
+											<option>hypertensive disease</option>
+											<option>Diabetes</option>
+											<option>Asthma</option>
+											<option>dehydration</option>
+											<option>Depression</option>
+											<option>failure heart</option>
+											<option>ulcer peptic</option>
+											<option>Anemia</option>
+											<option>pneumonia</option>
+
+										</select>
+									</div>
+
+									<div class="form-control">
+										<label class="header">symptoms <span>*</span></label>
+										<select class="form-control" name="symptoms" style="width:500px;">
+											<option>pain and catatonia and snore and pain chest</option>
+											<option>pain chest and shortness of breath</option>
+											<option>shortness of breath and pain chest and asthenia</option>
+											<option>wheezing and cough</option>
+											<option>fever and vomiting</option>
+											<option>feeling suicidal and feeling hopeless</option>
+											<option>orthopnea and fatigue and dyspnea on exertion</option>
+											<option>pain and vomiting and out of breath and pain chest</option>
+											<option>guaiac positive and monoclonal</option>
+											<option>Ampicillin and Sulbactam</option>
+
+										</select>
+									</div>
+
+									<div class="form-control">
+										<label class="header">tablet <span>*</span></label>
+										<select class="form-control" name="tablet" style="width:500px;">
+											<option>Fluvastatin</option>
+											<option>Zestril</option>
+											<option>sbi insulin pill</option>
+											<option>Etofylline</option>
+											<option>ondansetron</option>
+											<option>Alprazolam</option>
+											<option>Aspirin</option>
+											<option>Aluminium Hydroxide</option>
+											<option>Carbony Iron</option>
+											<option>sbi insulin pill</option>
+
+										</select>
+									</div>
+									<div class="form-control">
+										<label class="header">composition <span>*</span></label>
+										<select class="form-control" name="composition" style="width:500px;">
+											<option>LescolXLTablet and 80mg and 14 Tablets</option>
+											<option>PRINIVIL 5mg and 10mg and 20 mg tablets</option>
+											<option>SBL insulin Tablet 12 X</option>
+											<option>TAMSULOSIN 0.4MG</option>
+											<option>Satron Plus Susp Suspension 2mg and 5ml</option>
+											<option>Tryline Forte Tabletand 10mg/25mg and 10 Tablets</option>
+											<option>Dispirin Tablet and 500mg and 10 Tablets</option>
+									9		<option>Aludrox (840 mg) Tablet and 840mg and 50Tablets</option>
+											<option>Abonyl Capsule and 100 mg and 10 capsules</option>
+											<option>Sulbacin Tablet and 220/147mg and 10 Tablets</option>
+
+
+										</select>
+									</div>
+									<div class="form-control">
+										<label class="header">Price <span>*</span></label>
+										<input type="text" id="name" name="price" style="width:500px;" placeholder="price" required="">
+									</div>
+										<div class="form-control">
+										<label class="header">Medicine usage <span>*</span></label>
+										<select class="form-control" name="Medicine" style="width:500px;">
+											<option>prescribed for high cholesterol and triglycerides</option>
+											<option>To treat high blood pressure</option>
+											<option>treating diabetes</option>
+											<option>asthma and chronic</option>
+											<option>radiation therpy and surgery</option>
+											<option>prescribed for anxiety and panic disorders.</option>
+											<option>heart attak and fever</option>
+											<option>heartburn relief</option>
+											<option>iron deficiency anemia</option>
+											<option>prescribed for susceptible bacterial infections like skin infections</option>
+
+										</select>
+									</div>
+									<div class="form-control">
+										<label class="header">side effect <span>*</span></label>
+										<select class="form-control" name="side_effect" style="width:500px;" >
+											<option>Sinus pain and cough.</option>
+											<option>kidney problems</option>
+											<option>dry rogh skin</option>
+											<option>Upset stomach</option>
+											<option>Central Nervous System</option>
+											<option>heart block</option>
+											<option>stomach pain</option>
+											<option>loss of appetite</option>
+											<option>chest pain</option>
+											<option>vomiting and diarrhea</option>
+
+										</select>
+									</div>
+									<div class="form-control">
+										<label class="header">sevearity <span>*</span></label>
+										<select class="form-control" name="sevearity" style="width:500px;">
+											<option>bad</option>
+											<option>normal</option>
+										</select>
+									</div>
+									<input type="submit" style="width: 100%;" value="Make an appointment">
+
+
+								</div>
+								
+							</div>
+ 			 </form>
+
+					</div>
+
+								
+						
+
+					<div class="clear"></div>
+				</div>
+				
+			</div>	
+				
+				<p class="copyright">© 2017 Medico Appointment Form. All Rights Reserved | Design by <a href="https://w3layouts.com/" target="_blank">W3layouts</a></p>
+		</div>
+	</div>
+
+<!-- Calendar -->
+				<link rel="stylesheet" href="{% static 'medi/css/jquery-ui.css' %}" />
+				<script src="{% static 'medi/js/jquery-ui.js' %}"></script>
+				<script>
+						$(function() {
+							$( "#datepicker,#datepicker1,#datepicker2,#datepicker3" ).datepicker();
+						});
+				</script>
+			<!-- //Calendar -->
+			<script type="text/javascript" src="{% static 'medi/js/wickedpicker.js' %}"></script>
+			<script type="text/javascript">
+				$('.timepicker').wickedpicker({twentyFour: false});
+			</script>
+
+
+</body>
+</html>

@@ -1,0 +1,61 @@
+Disease,Symptoms,Tablet,Compositions,Price,Medicine usage,side effect,sevearity,Sevearity values
+Obesity,pain and catatonia and snore and pain chest,Gemfibrozil,Lescol XL Tablet and 80mg and 14 Tablets.,25.0,prescribed for high cholesterol and triglycerides,Weakness,normal,1
+hypertensive disease,pain chest and shortness of breath,Acetazolamide,Synomax Capsule Tablet and 250mg and10,408.5,To treat high blood pressure,kidney problems,bad,0
+Diabetes,shortness of breath and pain chest and asthenia,Chlorpropamide,K -Carb Tablet and 25mg and 10 Tablets,2.65,treating diabetes,Allergic skin reaction,normal,1
+Asthma,wheezing and cough,Etofylline,ACEBROFACT Capsule and 100mg,150.0,swelling and narrowing,Upset stomach,normal,1
+dehydration,fever and vomiting,ondansetron,Satron Plus Susp Suspension 2mg and 5ml,81.0,Headache and dizziness.,Central Nervous System,bad,0
+Depression,feeling suicidal and feeling hopeless,Amoxapine,Tryline Forte Tablet and 10mg/25mg and 10 Tablets,96.0,prescribed for anxiety and panic disorders.,heart block,bad,0
+failure heart,orthopnea and fatigue and dyspnea on exertion,Digoxin,Digitran - 250 Capsule and Tablet and 0.25mg 11,9.0,prescribed for congestive heart faliure,stomach pain,normal,1
+ulcer peptic,pain and vomiting and out of breath and pain chest,Magnesium Hydroxide,Aludrox (840 mg) Tablet and 840mg and 50 Tablets,12.0,heartburn relief,muscle weakness,normal,1
+pneumonia,Ampicillin and Sulbactam,Darbeponetin alfa,Penglobe (400 mg) Tablet and 400mg and 6 Tablets,417.0,prescribed for susceptible bacterial infections like skin infections,intestinal inflammation,bad,0
+Anemia,guaiac positive and monoclonal,Darbeponetin alfa,Abonyl Capsule and 100 mg and 10 capsules,45.0,chronic kidney disease,difficulty in breathing,bad,0
+Diabetes,shortness of breath and pain chest and asthenia,Chlorpropamide,Digitran - 250 Capsule and Tablet and 0.25mg 11,9.0,prescribed for congestive heart faliure,kidney problems,bad,0
+pneumonia,Ampicillin and Sulbactam,Darbeponetin alfa,Aludrox (840 mg) Tablet and 840mg and 50 Tablets,12.0,heartburn relief,Allergic skin reaction,normal,1
+Anemia,guaiac positive and monoclonal,Darbeponetin alfa,Penglobe (400 mg) Tablet and 400mg and 6 Tablets,417.0,prescribed for susceptible bacterial infections like skin infections,Upset stomach,normal,1
+Obesity,pain and catatonia and snore and pain chest,Gemfibrozil,Lescol XL Tablet and 80mg and 14 Tablets.,25.0,prescribed for high cholesterol and triglycerides,Weakness,normal,1
+hypertensive disease,pain chest and shortness of breath,Acetazolamide,Synomax Capsule Tablet and 250mg and10,408.5,To treat high blood pressure,kidney problems,bad,0
+Diabetes,shortness of breath and pain chest and asthenia,Chlorpropamide,K -Carb Tablet and 25mg and 10 Tablets,2.65,treating diabetes,Allergic skin reaction,normal,1
+Obesity,pain and catatonia and snore and pain chest,Gemfibrozil,ACEBROFACT Capsule and 100mg,150.0,swelling and narrowing,Upset stomach,normal,1
+hypertensive disease,pain chest and shortness of breath,Acetazolamide,Satron Plus Susp Suspension 2mg and 5ml,81.0,Headache and dizziness.,Central Nervous System,bad,0
+Anemia,guaiac positive and monoclonal,Darbeponetin alfa,Tryline Forte Tablet and 10mg/25mg and 10 Tablets,96.0, prescribed for anxiety and panic disorders.,heart block,bad,0
+Diabetes,shortness of breath and pain chest and asthenia,Chlorpropamide,Digitran - 250 Capsule and Tablet and 0.25mg 11,9.0,prescribed for congestive heart faliure,stomach pain,normal,1
+Obesity,pain and catatonia and snore and pain chest,Gemfibrozil,Aludrox (840 mg) Tablet and 840mg and 50 Tablets,12.0,heartburn relief,muscle weakness,normal,1
+hypertensive disease,pain chest and shortness of breath,Acetazolamide,Penglobe (400 mg) Tablet and 400mg and 6 Tablets,417.0,prescribed for susceptible bacterial infections like skin infections,intestinal inflammation,bad,0
+Diabetes,shortness of breath and pain chest and asthenia,Chlorpropamide,Lescol XL Tablet and 80mg and 14 Tablets.,25.0,prescribed for high cholesterol and triglycerides,kidney problems,bad,0
+Asthma,wheezing and cough,Etofylline,Synomax Capsule Tablet and 250mg and10,408.5,To treat high blood pressure,Allergic skin reaction,normal,1
+dehydration,fever and vomiting,ondansetron,Synomax Capsule Tablet and 250mg and10,408.5,To treat high blood pressure,Upset stomach,normal,1
+Depression,feeling suicidal and feeling hopeless,Amoxapine,K -Carb Tablet and 25mg and 10 Tablets,2.65,treating diabetes,Weakness,normal,1
+failure heart,orthopnea and fatigue and dyspnea on exertion,Digoxin,Synomax Capsule Tablet and 250mg and10,408.5,To treat high blood pressure,kidney problems,bad,0
+ulcer peptic,pain and vomiting and out of breath and pain chest,Magnesium Hydroxide,K -Carb Tablet and 25mg and 10 Tablets,2.65,treating diabetes,Allergic skin reaction,normal,1
+Diabetes,shortness of breath and pain chest and asthenia,Chlorpropamide,ACEBROFACT Capsule and 100mg,150.0,swelling and narrowing,Upset stomach,normal,1
+pneumonia,Ampicillin and Sulbactam,Darbeponetin alfa,Satron Plus Susp Suspension 2mg and 5ml,81.0,Headache and dizziness.,Central Nervous System,bad,0
+Anemia,guaiac positive and monoclonal,Darbeponetin alfa,Tryline Forte Tablet and 10mg/25mg and 10 Tablets,96.0,prescribed for anxiety and panic disorders.,heart block,bad,0
+Obesity,pain and catatonia and snore and pain chest,Gemfibrozil,Digitran - 250 Capsule and Tablet and 0.25mg 11,9.0,prescribed for congestive heart faliure,stomach pain,normal,1
+hypertensive disease,pain chest and shortness of breath,Acetazolamide,Aludrox (840 mg) Tablet and 840mg and 50 Tablets,12.0,heartburn relief,muscle weakness,normal,1
+pneumonia,Ampicillin and Sulbactam,Darbeponetin alfa,Penglobe (400 mg) Tablet and 400mg and 6 Tablets,417.0,prescribed for susceptible bacterial infections like skin infections,intestinal inflammation,bad,0
+Anemia,guaiac positive and monoclonal,Darbeponetin alfa,Synomax Capsule Tablet and 250mg and10,408.5,To treat high blood pressure,kidney problems,bad,0
+Anemia,guaiac positive and monoclonal,Darbeponetin alfa,K -Carb Tablet and 25mg and 10 Tablets,2.65,treating diabetes,Allergic skin reaction,normal,1
+Obesity,pain and catatonia and snore and pain chest,Gemfibrozil,ACEBROFACT Capsule and 100mg,150.0,swelling and narrowing,Weakness,normal,1
+hypertensive disease,pain chest and shortness of breath,Acetazolamide,Satron Plus Susp Suspension 2mg and 5ml,81.0,Headache and dizziness.,kidney problems,bad,0
+Diabetes,shortness of breath and pain chest and asthenia,Chlorpropamide,Tryline Forte Tablet and 10mg/25mg and 10 Tablets,96.0,prescribed for anxiety and panic disorders.,Allergic skin reaction,normal,1
+Diabetes,shortness of breath and pain chest and asthenia,Chlorpropamide,Digitran - 250 Capsule and Tablet and 0.25mg 11,9.0,prescribed for congestive heart faliure,Upset stomach,normal,1
+Obesity,pain and catatonia and snore and pain chest,Gemfibrozil,Aludrox (840 mg) Tablet and 840mg and 50 Tablets,12.0,heartburn relief,Central Nervous System,bad,0
+hypertensive disease,pain chest and shortness of breath,Acetazolamide,Penglobe (400 mg) Tablet and 400mg and 6 Tablets,417.0,prescribed for susceptible bacterial infections like skin infections,heart block,bad,0
+Diabetes,shortness of breath and pain chest and asthenia,Chlorpropamide,Synomax Capsule Tablet and 250mg and10,408.5,To treat high blood pressure,stomach pain,normal,1
+Asthma,wheezing and cough,Etofylline,K -Carb Tablet and 25mg and 10 Tablets,2.65,treating diabetes,muscle weakness,normal,1
+dehydration,fever and vomiting,ondansetron,ACEBROFACT Capsule and 100mg,150.0,swelling and narrowing,intestinal inflammation,bad,0
+Depression,feeling suicidal and feeling hopeless,Amoxapine,Satron Plus Susp Suspension 2mg and 5ml,81.0,Headache and dizziness.,kidney problems,bad,0
+failure heart,orthopnea and fatigue and dyspnea on exertion,Digoxin,Tryline Forte Tablet and 10mg/25mg and 10 Tablets,96.0,prescribed for anxiety and panic disorders.,Allergic skin reaction,normal,1
+ulcer peptic,pain and vomiting and out of breath and pain chest,Magnesium Hydroxide,Digitran - 250 Capsule and Tablet and 0.25mg 11,9.0,prescribed for congestive heart faliure,Upset stomach,normal,1
+Diabetes,shortness of breath and pain chest and asthenia,Chlorpropamide,Aludrox (840 mg) Tablet and 840mg and 50 Tablets,12.0,heartburn relief,Weakness,normal,1
+pneumonia,Ampicillin and Sulbactam,Darbeponetin alfa,Penglobe (400 mg) Tablet and 400mg and 6 Tablets,417.0,prescribed for susceptible bacterial infections like skin infections,kidney problems,bad,0
+Anemia,guaiac positive and monoclonal,Darbeponetin alfa,Lescol XL Tablet and 80mg and 14 Tablets.,25.0,prescribed for high cholesterol and triglycerides,Allergic skin reaction,normal,1
+Diabetes,shortness of breath and pain chest and asthenia,Chlorpropamide,Synomax Capsule Tablet and 250mg and10,408.5,To treat high blood pressure,Upset stomach,normal,1
+Obesity,pain and catatonia and snore and pain chest,Gemfibrozil,Synomax Capsule Tablet and 250mg and10,408.5,To treat high blood pressure,kidney problems,bad,0
+hypertensive disease,pain chest and shortness of breath,Acetazolamide,K -Carb Tablet and 25mg and 10 Tablets,2.65,treating diabetes,Allergic skin reaction,normal,1
+Diabetes,shortness of breath and pain chest and asthenia,Chlorpropamide,ACEBROFACT Capsule and 100mg,150.0,swelling and narrowing,Upset stomach,normal,1
+Asthma,wheezing and cough,Etofylline,Satron Plus Susp Suspension 2mg and 5ml,81.0,Headache and dizziness.,Weakness,normal,1
+dehydration,fever and vomiting,ondansetron,Tryline Forte Tablet and 10mg/25mg and 10 Tablets,96.0,prescribed for anxiety and panic disorders.,kidney problems,bad,0
+Depression,feeling suicidal and feeling hopeless,Amoxapine,Digitran - 250 Capsule and Tablet and 0.25mg 11,9.0,prescribed for congestive heart faliure,Allergic skin reaction,normal,1
+failure heart,orthopnea and fatigue and dyspnea on exertion,Digoxin,Aludrox (840 mg) Tablet and 840mg and 50 Tablets,12.0,heartburn relief,Upset stomach,normal,1
+ulcer peptic,pain and vomiting and out of breath and pain chest,Magnesium Hydroxide,Penglobe (400 mg) Tablet and 400mg and 6 Tablets,417.0,prescribed for susceptible bacterial infections like skin infections,Upset stomach,normal,1

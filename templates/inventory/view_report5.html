@@ -1,0 +1,120 @@
+{% extends 'inventory/invo_home.html' %}
+{% block content %}
+{% load static %}
+<body>
+<style>
+    .table > thead > tr > th{
+        font-size: 0.9em;
+        color: black;
+        border-top: none !important;
+    }
+.table > tbody > tr > td{
+	font-size: 0.9em;
+	color: white;
+	border-top: none !important;
+}
+
+.button-62 {
+  background: linear-gradient(to bottom right, #EF4765, #FF9A5A);
+  border: 0;
+  border-radius: 12px;
+  color: #FFFFFF;
+  cursor: pointer;
+  display: inline-block;
+  font-family: -apple-system,system-ui,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 2.5;
+  outline: transparent;
+  padding: 0 1rem;
+  text-align: center;
+  text-decoration: none;
+  transition: box-shadow .2s ease-in-out;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  white-space: nowrap;
+}
+
+.button-62:not([disabled]):focus {
+  box-shadow: 0 0 .25rem rgba(0, 0, 0, 0.5), -.125rem -.125rem 1rem rgba(239, 71, 101, 0.5), .125rem .125rem 1rem rgba(255, 154, 90, 0.5);
+}
+
+.button-62:not([disabled]):hover {
+  box-shadow: 0 0 .25rem rgba(0, 0, 0, 0.5), -.125rem -.125rem 1rem rgba(239, 71, 101, 0.5), .125rem .125rem 1rem rgba(255, 154, 90, 0.5);
+}
+</style>
+<script>
+    {% for msg in messages %}
+        alert('{{ msg }}');
+    {% endfor %}
+</script>
+<div>
+    <div class="container" style="margin-top:5px"><br><br>
+        <center>
+            <h1 style="margin-top: -200px; color:white;">PACKING</h1></center>
+        <br>
+        {% if values %}
+
+        <table class="table" style="margin-left:-30px; font-size:12px;">
+            <thead style="color:black;">
+
+
+            <tr style="font-family:verdana; background-color:white;text-align: center;">
+
+                <th>DISEASE</th>
+                <th>SYMPTOMS</th>
+                <th>TABLET</th>
+                <th>COMPOSITION</th>
+                <th>PRICE</th>
+                <th>MEDICINE</th>
+                <th>SIDE EFFECT</th>
+                <th>SEVEARITY</th>
+                <th>REPORT</th>
+                   <th>PACKING ID</th>
+
+
+         
+                
+
+
+
+
+            </tr>
+            </thead>
+            <tbody style="color:white;">
+            {% for i in values %}
+            <tr style="background-color:#00204a;color:white;text-align: center;">
+
+
+                <td>{{i.Disease}}</td>
+                <td>{{i.symptoms}}</td>
+                <td>{{i.tablet}}</td>
+                <td>{{i.composition}}</td>
+                <td>{{i.price}}</td>
+                <td>{{i.Medicine}}</td>
+                <td>{{i.side_effect}}</td>
+                <td>{{i.sevearity}}</td>
+                <td>{{i.solution4}}</td>
+                <td><a href="/send_to_packing5/{{i.id}}/"><button class="button-62">Do Packing</button></a></td>
+
+<!--                   <td style="color:black;"><input type="text" name="packing_id5"></td>-->
+<!--                <td style="color:black;" ><a href="/send_to_packing5/{{i.id}}/"><input type="submit" formaction="/send_to_packing5/{{i.id}}/" value="Send to packing"></td></a>-->
+
+               
+              
+
+
+
+
+            </tr>
+            {% endfor %}
+            </tbody>
+        </table>
+        {% endif %}
+    </div>
+
+</div>
+</body>
+</html>
+{% endblock %}

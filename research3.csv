@@ -1,0 +1,54 @@
+Disease,Symptoms,Tablet,Compositions,Price,Medicine usage,side effect,sevearity,Sevearity values
+Obesity,pain and catatonia and snore and pain chest,Lovastatin,Lochol Tablet and 10mg and 10 capsules,25.0,HMG-CoA reductase inhibitor,Weakness,normal,1
+hypertensive disease,pain chest and shortness of breath,Acetazolamide,Rasilez (300 mg) Tablet 300mg and 7 Tablets,408.5,primary hyper tension,headache,normal,1
+Diabetes,shortness of breath and pain chest and asthenia,Chlorpropamide,Diabinese Tablet 100mg and 10 Tablets,2.65,prescribed for type 2 diabetes,Dizziness and headache,normal,1
+Asthma,wheezing and cough,Acebrophylline,ACEBROFACT Capsule and 100mg,66.5,swelling and narrowing,Respiratory,bad,0
+dehydration,fever and vomiting,Lupisetron plus,Lupisetron plus and 4/500mg 10 Tablets,81.0,Headache and dizziness.,Fever and weakness,normal,1
+Depression,feeling suicidal and feeling hopeless,Amoxapine,Oxamine (100mg) and100mg and 11,96.0,prescribed for depression,blurred vision,bad,0
+failure heart,orthopnea and fatigue and dyspnea on exertion,Digoxin,Digitran 250 Capsule and Tablet and 0.25mg 11,6.0,prescribed for congestive heart faliure,Loss of appetite and vomiting.,bad,0
+ulcer peptic,pain and vomiting and out of breath and pain chest,Glycopyrrolate,Glycolate (1 mg) Tablet and 1mg and 10 Tablets,45.0,prescribed for preventing ulcers,problem in sleeping,normal,1
+pneumonia,Ampicillin and Sulbactam,Digoxin,Sulbacin Tablet and 220/147mg and 10 Tablets,417.0,prescribed for susceptible bacterial infections like skin infections,"vomiting, gas, nausea, and diarrhea",bad,0
+Anemia,guaiac positive and monoclonal,Darbeponetin alfa,Cresp PFS 20mcg and 1 Vial,200.0,chronic kidney disease,cough,normal,1
+Depression,pain and catatonia and snore and pain chest,Lovastatin,Digitran 250 Capsule and Tablet and 0.25mg 11,25.0,prescribed for congestive heart faliure,Loss of appetite and vomiting.,bad,0
+failure heart,pain chest and shortness of breath,Acetazolamide,Glycolate (1 mg) Tablet and 1mg and 10 Tablets,408.5,prescribed for congestive heart faliure,Loss of appetite and vomiting.,bad,0
+ulcer peptic,shortness of breath and pain chest and asthenia,Chlorpropamide,Digitran 250 Capsule and Tablet and 0.25mg 11,2.65,prescribed for preventing ulcers,problem in sleeping,normal,1
+hypertensive disease,pain and vomiting and out of breath and pain chest,Acebrophylline,ACEBROFACT Capsule and 100mg,408.5,prescribed for susceptible bacterial infections like skin infections,"vomiting, gas, nausea, and diarrhea",bad,0
+Diabetes,Ampicillin and Sulbactam,Acebrophylline,Glycolate (1 mg) Tablet and 1mg and 10 Tablets,408.5,HMG-CoA reductase inhibitor,Weakness,normal,1
+Asthma,shortness of breath and pain chest and asthenia,Lupisetron plus,Sulbacin Tablet and 220/147mg and 10 Tablets,408.5,primary hyper tension,headache,normal,1
+dehydration,wheezing and cough,Amoxapine,Cresp PFS 20mcg and 1 Vial,2.65,prescribed for congestive heart faliure,Loss of appetite and vomiting.,bad,0
+Depression,fever and vomiting,Digoxin,Digitran 250 Capsule and Tablet and 0.25mg 11,25.0,swelling and narrowing,Respiratory,bad,0
+failure heart,feeling suicidal and feeling hopeless,Glycopyrrolate,Glycolate (1 mg) Tablet and 1mg and 10 Tablets,408.5,Headache and dizziness.,Fever and weakness,normal,1
+ulcer peptic,orthopnea and fatigue and dyspnea on exertion,Digoxin,ACEBROFACT Capsule and 100mg,2.65,prescribed for depression,blurred vision,bad,0
+pneumonia,pain and catatonia and snore and pain chest,Digoxin,Digitran 250 Capsule and Tablet and 0.25mg 11,25.0,prescribed for congestive heart faliure,Loss of appetite and vomiting.,bad,0
+Depression,pain chest and shortness of breath,Lupisetron plus,Rasilez (300 mg) Tablet 300mg and 7 Tablets,408.5,prescribed for congestive heart faliure,Loss of appetite and vomiting.,bad,0
+failure heart,shortness of breath and pain chest and asthenia,Amoxapine,Diabinese Tablet 100mg and 10 Tablets,2.65,prescribed for preventing ulcers,problem in sleeping,normal,1
+ulcer peptic,pain and vomiting and out of breath and pain chest,Digoxin,ACEBROFACT Capsule and 100mg,2.65,prescribed for susceptible bacterial infections like skin infections,"vomiting, gas, nausea, and diarrhea",bad,0
+hypertensive disease,Ampicillin and Sulbactam,Glycopyrrolate,Lupisetron plus and 4/500mg 10 Tablets,66.5,HMG-CoA reductase inhibitor,Weakness,normal,1
+Diabetes,pain chest and shortness of breath,Digoxin,Oxamine (100mg) and100mg and 11,81.0,primary hyper tension,headache,normal,1
+Asthma,shortness of breath and pain chest and asthenia,Lovastatin,Digitran 250 Capsule and Tablet and 0.25mg 11,96.0,swelling and narrowing,Respiratory,bad,0
+dehydration,wheezing and cough,Acetazolamide,Sulbacin Tablet and 220/147mg and 10 Tablets,6.0,Headache and dizziness.,Fever and weakness,normal,1
+Depression,fever and vomiting,Chlorpropamide,Glycolate (1 mg) Tablet and 1mg and 10 Tablets,45.0,prescribed for depression,blurred vision,bad,0
+failure heart,feeling suicidal and feeling hopeless,Acebrophylline,Sulbacin Tablet and 220/147mg and 10 Tablets,417.0,prescribed for congestive heart faliure,Loss of appetite and vomiting.,bad,0
+ulcer peptic,orthopnea and fatigue and dyspnea on exertion,Lupisetron plus,Cresp PFS 20mcg and 1 Vial,200.0,HMG-CoA reductase inhibitor,Weakness,normal,1
+pneumonia,pain and catatonia and snore and pain chest,Amoxapine,Sulbacin Tablet and 220/147mg and 10 Tablets,408.5,primary hyper tension,headache,normal,1
+Anemia,pain chest and shortness of breath,Digoxin,Sulbacin Tablet and 220/147mg and 10 Tablets,2.65,prescribed for congestive heart faliure,Loss of appetite and vomiting.,bad,0
+Obesity,shortness of breath and pain chest and asthenia,Glycopyrrolate,Rasilez (300 mg) Tablet 300mg and 7 Tablets,66.5,prescribed for preventing ulcers,problem in sleeping,normal,1
+hypertensive disease,pain and vomiting and out of breath and pain chest,Digoxin,Diabinese Tablet 100mg and 10 Tablets,81.0,prescribed for susceptible bacterial infections like skin infections,"vomiting, gas, nausea, and diarrhea",bad,0
+Diabetes,Ampicillin and Sulbactam,Lupisetron plus,ACEBROFACT Capsule and 100mg,96.0,prescribed for congestive heart faliure,Loss of appetite and vomiting.,bad,0
+Asthma,pain chest and shortness of breath,Amoxapine,Lupisetron plus and 4/500mg 10 Tablets,6.0,HMG-CoA reductase inhibitor,Weakness,normal,1
+dehydration,shortness of breath and pain chest and asthenia,Digoxin,Oxamine (100mg) and100mg and 11,45.0,primary hyper tension,headache,normal,1
+Depression,pain and vomiting and out of breath and pain chest,Glycopyrrolate,Digitran 250 Capsule and Tablet and 0.25mg 11,417.0,swelling and narrowing,Respiratory,bad,0
+failure heart,Ampicillin and Sulbactam,Digoxin,Sulbacin Tablet and 220/147mg and 10 Tablets,200.0,Headache and dizziness.,Fever and weakness,normal,1
+ulcer peptic,pain chest and shortness of breath,Lupisetron plus,Glycolate (1 mg) Tablet and 1mg and 10 Tablets,25.0,prescribed for depression,blurred vision,bad,0
+pneumonia,shortness of breath and pain chest and asthenia,Digoxin,Sulbacin Tablet and 220/147mg and 10 Tablets,408.5,prescribed for congestive heart faliure,Loss of appetite and vomiting.,bad,0
+Anemia,wheezing and cough,Glycopyrrolate,Cresp PFS 20mcg and 1 Vial,2.65,prescribed for preventing ulcers,problem in sleeping,normal,1
+Obesity,fever and vomiting,Digoxin,Sulbacin Tablet and 220/147mg and 10 Tablets,81.0,prescribed for susceptible bacterial infections like skin infections,"vomiting, gas, nausea, and diarrhea",bad,0
+hypertensive disease,feeling suicidal and feeling hopeless,Lupisetron plus,Diabinese Tablet 100mg and 10 Tablets,96.0,prescribed for congestive heart faliure,Loss of appetite and vomiting.,bad,0
+Diabetes,orthopnea and fatigue and dyspnea on exertion,Lupisetron plus,ACEBROFACT Capsule and 100mg,6.0,swelling and narrowing,Respiratory,bad,0
+Asthma,pain and catatonia and snore and pain chest,Amoxapine,Lupisetron plus and 4/500mg 10 Tablets,45.0,Headache and dizziness.,Fever and weakness,normal,1
+dehydration,pain chest and shortness of breath,Digoxin,Oxamine (100mg) and100mg and 11,417.0,prescribed for depression,blurred vision,bad,0
+Depression,shortness of breath and pain chest and asthenia,Glycopyrrolate,Digitran 250 Capsule and Tablet and 0.25mg 11,200.0,HMG-CoA reductase inhibitor,Weakness,normal,1
+failure heart,shortness of breath and pain chest and asthenia,Digoxin,Oxamine (100mg) and100mg and 11,25.0,primary hyper tension,headache,normal,1
+ulcer peptic,wheezing and cough,Lupisetron plus,Digitran 250 Capsule and Tablet and 0.25mg 11,408.5,prescribed for congestive heart faliure,Loss of appetite and vomiting.,bad,0
+pneumonia,fever and vomiting,Lupisetron plus,ACEBROFACT Capsule and 100mg,2.65,HMG-CoA reductase inhibitor,Weakness,normal,1
+Anemia,feeling suicidal and feeling hopeless,Lupisetron plus,ACEBROFACT Capsule and 100mg,408.5,primary hyper tension,headache,normal,1
